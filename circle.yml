@@ -13,8 +13,6 @@ dependencies:
 test:
   override:
     - npm test
-    - docker run -d -p 8080:8080 xissy/friends.taeho.tech:$CIRCLE_BUILD_NUM; sleep 10
-    - curl --retry 10 --retry-delay 5 -v http://localhost:8080
 
 deployment:
   hub:
