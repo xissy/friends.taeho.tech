@@ -1,7 +1,7 @@
 {
-  "name": "reduxible-example",
-  "version": "0.0.2",
-  "description": "Example of The Universal Web Application based on Reduxible.",
+  "name": "friends.taeho.tech",
+  "version": "0.0.1",
+  "description": "A simple React+Redux example using Reduxible.",
   "scripts": {
     "clean": "rimraf dist static/dist",
     "lint": "eslint src test --fix",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pitzcarraldo/reduxible-example.git"
+    "url": "git+https://github.com/xissy/friends.taeho.tech.git"
   },
   "license": "MIT",
   "devDependencies": {
