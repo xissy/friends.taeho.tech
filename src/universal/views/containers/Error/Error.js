@@ -20,7 +20,7 @@ export default class Error extends Component {
     return (
       <html>
       <head>
-        <title>Reduxible Example</title>
+        <title>Friends Subtitles</title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta httpEquiv="X-UA-Compatible" content="IE=Edge"/>
         {assets.styles.app && <link href={assets.styles.app} rel="stylesheet" charSet="UTF-8"/>}
