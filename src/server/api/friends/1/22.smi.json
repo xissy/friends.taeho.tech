@@ -1,0 +1,4818 @@
+[
+  {
+    "startTime": 1034,
+    "languages": {
+      "en": "-Tell him.\n-Tell him."
+    },
+    "endTime": 2763
+  },
+  {
+    "startTime": 1034,
+    "languages": {
+      "ko": "- 말해 줘\n- 그래, 어서!"
+    },
+    "endTime": 3093
+  },
+  {
+    "startTime": 2969,
+    "languages": {
+      "en": "-Shut up.\n-Tell me what?"
+    },
+    "endTime": 5130
+  },
+  {
+    "startTime": 3303,
+    "languages": {
+      "ko": "- 그만 해\n- 무슨 일인데?"
+    },
+    "endTime": 4895
+  },
+  {
+    "startTime": 5138,
+    "languages": {
+      "ko": "- 저거 봐, 쳐다보지도 못하잖아\n- 뭔지 말해봐"
+    },
+    "endTime": 8073
+  },
+  {
+    "startTime": 5372,
+    "languages": {
+      "en": "You won't look at him."
+    },
+    "endTime": 6771
+  },
+  {
+    "startTime": 6973,
+    "languages": {
+      "en": "I could use another\nreason why women won't look at me."
+    },
+    "endTime": 10875
+  },
+  {
+    "startTime": 8274,
+    "languages": {
+      "ko": "여자가 날 쳐다보지도 못할\n일이 뭔지 좀 알자"
+    },
+    "endTime": 10538
+  },
+  {
+    "startTime": 11144,
+    "languages": {
+      "en": "All right. All right.\nLast night, I had a dream..."
+    },
+    "endTime": 15604
+  },
+  {
+    "startTime": 11277,
+    "languages": {
+      "ko": "알았어, 할게"
+    },
+    "endTime": 12301
+  },
+  {
+    "startTime": 12779,
+    "languages": {
+      "ko": "어젯밤에 꿈을 꿨는데\n너하고 나하고..."
+    },
+    "endTime": 18274
+  },
+  {
+    "startTime": 15882,
+    "languages": {
+      "en": "...that you and I were"
+    },
+    "endTime": 18248
+  },
+  {
+    "startTime": 18451,
+    "languages": {
+      "en": "Doing it on this table."
+    },
+    "endTime": 21249
+  },
+  {
+    "startTime": 18651,
+    "languages": {
+      "ko": "둘이 여기서 했대!"
+    },
+    "endTime": 20016
+  },
+  {
+    "startTime": 21554,
+    "languages": {
+      "ko": "아주 죽이는 꿈이구나"
+    },
+    "endTime": 24785
+  },
+  {
+    "startTime": 22555,
+    "languages": {
+      "en": "Excellent dream score."
+    },
+    "endTime": 25285
+  },
+  {
+    "startTime": 27761,
+    "languages": {
+      "ko": "그런... 꿈을 왜 꾼 건데?"
+    },
+    "endTime": 30924
+  },
+  {
+    "startTime": 28962,
+    "languages": {
+      "en": "Why would you dream that?"
+    },
+    "endTime": 30930
+  },
+  {
+    "startTime": 32465,
+    "languages": {
+      "en": "More importantly..."
+    },
+    "endTime": 33830
+  },
+  {
+    "startTime": 32499,
+    "languages": {
+      "ko": "더 중요한 건, 나랑 좋았니?"
+    },
+    "endTime": 35059
+  },
+  {
+    "startTime": 34067,
+    "languages": {
+      "en": "...was I any good?"
+    },
+    "endTime": 35329
+  },
+  {
+    "startTime": 36770,
+    "languages": {
+      "en": "Well, you were pretty damn good."
+    },
+    "endTime": 39432
+  },
+  {
+    "startTime": 36903,
+    "languages": {
+      "ko": "아주 죽이더라!"
+    },
+    "endTime": 38666
+  },
+  {
+    "startTime": 39773,
+    "languages": {
+      "en": "Interesting. In my dreams,\nI'm surprisingly inadequate."
+    },
+    "endTime": 44233
+  },
+  {
+    "startTime": 39939,
+    "languages": {
+      "ko": "이상하군, 내 꿈에서\n나는 늘 고자거든"
+    },
+    "endTime": 43067
+  },
+  {
+    "startTime": 45278,
+    "languages": {
+      "en": "Last night, you seemed to know\nyour way around the table."
+    },
+    "endTime": 49374
+  },
+  {
+    "startTime": 45412,
+    "languages": {
+      "ko": "꿈속에 넌 탁자에서\n꽤 능숙해 보였어"
+    },
+    "endTime": 47937
+  },
+  {
+    "startTime": 52352,
+    "languages": {
+      "en": "I love it when we share."
+    },
+    "endTime": 54650
+  },
+  {
+    "startTime": 52452,
+    "languages": {
+      "ko": "난 이런 얘기가 좋더라"
+    },
+    "endTime": 53783
+  },
+  {
+    "startTime": 58658,
+    "languages": {
+      "en": "You okay?"
+    },
+    "endTime": 59818
+  },
+  {
+    "startTime": 59025,
+    "languages": {
+      "ko": "괜찮냐?"
+    },
+    "endTime": 59719
+  },
+  {
+    "startTime": 59893,
+    "languages": {
+      "ko": "레이첼이 그런 꿈을 꾸다니\n믿을 수가 없어!"
+    },
+    "endTime": 62259
+  },
+  {
+    "startTime": 60026,
+    "languages": {
+      "en": "I can't believe you two\nhad sex in her dream."
+    },
+    "endTime": 63484
+  },
+  {
+    "startTime": 63763,
+    "languages": {
+      "en": "Sorry, it was a one-time thing."
+    },
+    "endTime": 65731
+  },
+  {
+    "startTime": 63930,
+    "languages": {
+      "ko": "미안해, 단 한번이잖아"
+    },
+    "endTime": 66592
+  },
+  {
+    "startTime": 65932,
+    "languages": {
+      "en": "I was very drunk, and it was\nsomeone else's subconscious."
+    },
+    "endTime": 70369
+  },
+  {
+    "startTime": 67200,
+    "languages": {
+      "ko": "술에 취해서 무의식중에\n한 짓과 같은 거야"
+    },
+    "endTime": 69691
+  },
+  {
+    "startTime": 70870,
+    "languages": {
+      "en": "The One With The lck Factor"
+    },
+    "endTime": 73168
+  },
+  {
+    "startTime": 119385,
+    "languages": {
+      "en": "Hello, Rachel."
+    },
+    "endTime": 120613
+  },
+  {
+    "startTime": 119486,
+    "languages": {
+      "ko": "안녕, 레이첼"
+    },
+    "endTime": 120316
+  },
+  {
+    "startTime": 121254,
+    "languages": {
+      "en": "Get off."
+    },
+    "endTime": 122653
+  },
+  {
+    "startTime": 121354,
+    "languages": {
+      "ko": "내려와"
+    },
+    "endTime": 122412
+  },
+  {
+    "startTime": 125325,
+    "languages": {
+      "en": "Ooh, give me. Can you see me\noperating a drill press?"
+    },
+    "endTime": 129659
+  },
+  {
+    "startTime": 125925,
+    "languages": {
+      "ko": "줘봐!\n이거 다리미로 눌러야 하니?"
+    },
+    "endTime": 128655
+  },
+  {
+    "startTime": 130029,
+    "languages": {
+      "en": "I don't know.\nWhat are you wearing?"
+    },
+    "endTime": 132657
+  },
+  {
+    "startTime": 130230,
+    "languages": {
+      "ko": "글쎄, 속옷이니?"
+    },
+    "endTime": 131356
+  },
+  {
+    "startTime": 135835,
+    "languages": {
+      "en": "Why would you want to?"
+    },
+    "endTime": 138497
+  },
+  {
+    "startTime": 136035,
+    "languages": {
+      "ko": "지금 그게 뭐야?"
+    },
+    "endTime": 138503
+  },
+  {
+    "startTime": 138705,
+    "languages": {
+      "en": "For short-term work. Till I get\nback my massage clients."
+    },
+    "endTime": 142664
+  },
+  {
+    "startTime": 138838,
+    "languages": {
+      "ko": "잠깐 동안만 할거야\n마사지 일을 얻을 때까지만"
+    },
+    "endTime": 142672
+  },
+  {
+    "startTime": 142876,
+    "languages": {
+      "en": "Pirates again?"
+    },
+    "endTime": 144468
+  },
+  {
+    "startTime": 142976,
+    "languages": {
+      "ko": "또 불법으로 해?"
+    },
+    "endTime": 143908
+  },
+  {
+    "startTime": 145111,
+    "languages": {
+      "en": "No. Nothing like that."
+    },
+    "endTime": 147545
+  },
+  {
+    "startTime": 145245,
+    "languages": {
+      "ko": "아니, 그거와는 달라"
+    },
+    "endTime": 147008
+  },
+  {
+    "startTime": 147780,
+    "languages": {
+      "ko": "나 진짜 멍청해"
+    },
+    "endTime": 149873
+  },
+  {
+    "startTime": 147780,
+    "languages": {
+      "en": "I'm just such a dummy."
+    },
+    "endTime": 149941
+  },
+  {
+    "startTime": 150183,
+    "languages": {
+      "en": "I taught a \"Massage Yourself at Home\"\nworkshop. And they are."
+    },
+    "endTime": 155314
+  },
+  {
+    "startTime": 150316,
+    "languages": {
+      "ko": "'가정에서 할 수 있는\n마사지법'을 가르쳤더니"
+    },
+    "endTime": 152580
+  },
+  {
+    "startTime": 153253,
+    "languages": {
+      "ko": "이렇게 됐어"
+    },
+    "endTime": 154015
+  },
+  {
+    "startTime": 156122,
+    "languages": {
+      "ko": "사무실에서 사람 구한다며?"
+    },
+    "endTime": 157885
+  },
+  {
+    "startTime": 156156,
+    "languages": {
+      "en": "Hey, Chan, she could work for you."
+    },
+    "endTime": 158920
+  },
+  {
+    "startTime": 159159,
+    "languages": {
+      "en": "Thanks, Joey. That's a good idea."
+    },
+    "endTime": 161627
+  },
+  {
+    "startTime": 159192,
+    "languages": {
+      "ko": "고맙다, 기억력도 좋지!"
+    },
+    "endTime": 160819
+  },
+  {
+    "startTime": 161961,
+    "languages": {
+      "ko": "나 할 수 있어\n뭔데?"
+    },
+    "endTime": 164361
+  },
+  {
+    "startTime": 161961,
+    "languages": {
+      "en": "I could. I could do it. What is it?"
+    },
+    "endTime": 164828
+  },
+  {
+    "startTime": 165064,
+    "languages": {
+      "ko": "내 비서가 2주간 휴가를 냈어\n가슴 축소 수술을 받는대"
+    },
+    "endTime": 169000
+  },
+  {
+    "startTime": 165064,
+    "languages": {
+      "en": "My secretary's gonna be out.\nShe's having one of her boobs reduced."
+    },
+    "endTime": 170229
+  },
+  {
+    "startTime": 170537,
+    "languages": {
+      "en": "It's a whole big boob story."
+    },
+    "endTime": 173165
+  },
+  {
+    "startTime": 170670,
+    "languages": {
+      "ko": "좀 크다는 뜻이겠지"
+    },
+    "endTime": 172297
+  },
+  {
+    "startTime": 173373,
+    "languages": {
+      "en": "-I could be a secretary.\n-I don't know if it'd be your thing..."
+    },
+    "endTime": 177833
+  },
+  {
+    "startTime": 173406,
+    "languages": {
+      "ko": "나 비서 할 수 있어"
+    },
+    "endTime": 174634
+  },
+  {
+    "startTime": 175308,
+    "languages": {
+      "ko": "글쎄, 우리 일은\n아주 정상적인 거라서..."
+    },
+    "endTime": 179802
+  },
+  {
+    "startTime": 178044,
+    "languages": {
+      "en": "... because it involves being\nnormal for a large portion of the day."
+    },
+    "endTime": 182947
+  },
+  {
+    "startTime": 181514,
+    "languages": {
+      "ko": "하루 종일 말이야"
+    },
+    "endTime": 183209
+  },
+  {
+    "startTime": 183349,
+    "languages": {
+      "en": "I could do that."
+    },
+    "endTime": 185078
+  },
+  {
+    "startTime": 183516,
+    "languages": {
+      "ko": "할 수 있어"
+    },
+    "endTime": 184483
+  },
+  {
+    "startTime": 186619,
+    "languages": {
+      "en": "-What's that?\n-My new beeper."
+    },
+    "endTime": 188780
+  },
+  {
+    "startTime": 186819,
+    "languages": {
+      "ko": "그거 뭐야?"
+    },
+    "endTime": 187717
+  },
+  {
+    "startTime": 188021,
+    "languages": {
+      "ko": "호출기 샀어"
+    },
+    "endTime": 188988
+  },
+  {
+    "startTime": 188988,
+    "languages": {
+      "en": "Why does a paleontologist\nneed a beeper?"
+    },
+    "endTime": 191456
+  },
+  {
+    "startTime": 189155,
+    "languages": {
+      "ko": "고생물학자가 웬 호출기?"
+    },
+    "endTime": 191623
+  },
+  {
+    "startTime": 191691,
+    "languages": {
+      "en": "Is it for dinosaur emergencies?\nHelp. They're still extinct."
+    },
+    "endTime": 196788
+  },
+  {
+    "startTime": 191824,
+    "languages": {
+      "ko": "공룡의 비상사태를 위해서?"
+    },
+    "endTime": 193758
+  },
+  {
+    "startTime": 194060,
+    "languages": {
+      "ko": "도와줘요\n우리가 멸종 중이에요!"
+    },
+    "endTime": 195823
+  },
+  {
+    "startTime": 197263,
+    "languages": {
+      "ko": "이건 캐롤이 분만할\n때를 위해서야"
+    },
+    "endTime": 199231
+  },
+  {
+    "startTime": 197297,
+    "languages": {
+      "en": "It's for when Carol goes into labor."
+    },
+    "endTime": 200755
+  },
+  {
+    "startTime": 199432,
+    "languages": {
+      "ko": "내가 어디에 있든지 부를 수 있지\n호출만 하면 돼, 55-짐보!"
+    },
+    "endTime": 204267
+  },
+  {
+    "startTime": 201034,
+    "languages": {
+      "en": "All she has to do is dial 55-JlMBO."
+    },
+    "endTime": 204629
+  },
+  {
+    "startTime": 205471,
+    "languages": {
+      "en": "A cool number and\na possible name for the kid."
+    },
+    "endTime": 208929
+  },
+  {
+    "startTime": 205538,
+    "languages": {
+      "ko": "번호 좋다\n그걸 애 이름으로 해"
+    },
+    "endTime": 208006
+  },
+  {
+    "startTime": 209142,
+    "languages": {
+      "ko": "그럼 이따가 봐"
+    },
+    "endTime": 210268
+  },
+  {
+    "startTime": 209142,
+    "languages": {
+      "en": "-See you later.\n-Off to see young Ethan?"
+    },
+    "endTime": 211804
+  },
+  {
+    "startTime": 210476,
+    "languages": {
+      "ko": "- 꼬마 이던 만나니?\n- 고마우셔라"
+    },
+    "endTime": 212967
+  },
+  {
+    "startTime": 212278,
+    "languages": {
+      "en": "Thank you."
+    },
+    "endTime": 213677
+  },
+  {
+    "startTime": 214547,
+    "languages": {
+      "en": "How young is young Ethan?\nYoung?"
+    },
+    "endTime": 217175
+  },
+  {
+    "startTime": 214647,
+    "languages": {
+      "ko": "얼마나 어리길래 꼬마야?"
+    },
+    "endTime": 216774
+  },
+  {
+    "startTime": 218151,
+    "languages": {
+      "en": "He's our age."
+    },
+    "endTime": 220346
+  },
+  {
+    "startTime": 218184,
+    "languages": {
+      "ko": "우리 또래야"
+    },
+    "endTime": 220152
+  },
+  {
+    "startTime": 220620,
+    "languages": {
+      "en": "When we were...."
+    },
+    "endTime": 222178
+  },
+  {
+    "startTime": 220753,
+    "languages": {
+      "ko": "몇 년 전 우리?"
+    },
+    "endTime": 221777
+  },
+  {
+    "startTime": 225959,
+    "languages": {
+      "en": "-He's a senior in college.\n-College?"
+    },
+    "endTime": 229019
+  },
+  {
+    "startTime": 226092,
+    "languages": {
+      "ko": "대학 상급생이야"
+    },
+    "endTime": 227719
+  },
+  {
+    "startTime": 227927,
+    "languages": {
+      "ko": "대학생?"
+    },
+    "endTime": 228825
+  },
+  {
+    "startTime": 229729,
+    "languages": {
+      "en": "Rob that cradle."
+    },
+    "endTime": 231663
+  },
+  {
+    "startTime": 229796,
+    "languages": {
+      "ko": "요람이나 흔들어줘라"
+    },
+    "endTime": 230820
+  },
+  {
+    "startTime": 232632,
+    "languages": {
+      "en": "He's smart and mature and grown-up."
+    },
+    "endTime": 236261
+  },
+  {
+    "startTime": 232665,
+    "languages": {
+      "ko": "똑똑하고 성숙한 어른이야"
+    },
+    "endTime": 236192
+  },
+  {
+    "startTime": 236402,
+    "languages": {
+      "ko": "성숙한 어른?\n걘 아직 애야"
+    },
+    "endTime": 239565
+  },
+  {
+    "startTime": 236469,
+    "languages": {
+      "en": "Mature and grown-up, he's a big boy."
+    },
+    "endTime": 240872
+  },
+  {
+    "startTime": 241741,
+    "languages": {
+      "en": "This man-child has no problem\nwith how old you are?"
+    },
+    "endTime": 244471
+  },
+  {
+    "startTime": 241874,
+    "languages": {
+      "ko": "그 꼬마는 네 나이가 상관없대?"
+    },
+    "endTime": 244604
+  },
+  {
+    "startTime": 244911,
+    "languages": {
+      "en": "No, of course not.\nIt's not even an issue..."
+    },
+    "endTime": 248039
+  },
+  {
+    "startTime": 244944,
+    "languages": {
+      "ko": "물론, 없지!\n문제가 안돼"
+    },
+    "endTime": 247276
+  },
+  {
+    "startTime": 248214,
+    "languages": {
+      "ko": "내가 22살이라고 했거든"
+    },
+    "endTime": 249806
+  },
+  {
+    "startTime": 248314,
+    "languages": {
+      "en": "... because I said I was 22."
+    },
+    "endTime": 249975
+  },
+  {
+    "startTime": 250049,
+    "languages": {
+      "ko": "- 뭐?\n- 뭐?"
+    },
+    "endTime": 251311
+  },
+  {
+    "startTime": 250183,
+    "languages": {
+      "en": "-You what?\n-What?"
+    },
+    "endTime": 251480
+  },
+  {
+    "startTime": 251584,
+    "languages": {
+      "ko": "22살처럼 안 보여?"
+    },
+    "endTime": 253347
+  },
+  {
+    "startTime": 251684,
+    "languages": {
+      "en": "-Oh, I can't pass for 22?\n-Well, maybe 25, 26."
+    },
+    "endTime": 255176
+  },
+  {
+    "startTime": 253720,
+    "languages": {
+      "ko": "25나 26은 돼 보여"
+    },
+    "endTime": 255278
+  },
+  {
+    "startTime": 255488,
+    "languages": {
+      "en": "-I am 26.\n-There you go."
+    },
+    "endTime": 258150
+  },
+  {
+    "startTime": 255555,
+    "languages": {
+      "ko": "26살이잖아"
+    },
+    "endTime": 256783
+  },
+  {
+    "startTime": 257156,
+    "languages": {
+      "ko": "맞췄다!"
+    },
+    "endTime": 257850
+  },
+  {
+    "startTime": 270970,
+    "languages": {
+      "en": "Can you hear that?"
+    },
+    "endTime": 272767
+  },
+  {
+    "startTime": 271037,
+    "languages": {
+      "ko": "안 들리니?"
+    },
+    "endTime": 271765
+  },
+  {
+    "startTime": 273606,
+    "languages": {
+      "ko": "들려"
+    },
+    "endTime": 274197
+  },
+  {
+    "startTime": 276609,
+    "languages": {
+      "en": "That'll stop\nwhen you pick up the phone."
+    },
+    "endTime": 280067
+  },
+  {
+    "startTime": 276843,
+    "languages": {
+      "ko": "네가 받으면 소리가 안 나"
+    },
+    "endTime": 278708
+  },
+  {
+    "startTime": 281514,
+    "languages": {
+      "en": "-Oh, I'm on.\n-Okay."
+    },
+    "endTime": 283948
+  },
+  {
+    "startTime": 282015,
+    "languages": {
+      "ko": "받아야지"
+    },
+    "endTime": 282777
+  },
+  {
+    "startTime": 285551,
+    "languages": {
+      "en": "Mr. Bing's office."
+    },
+    "endTime": 287781
+  },
+  {
+    "startTime": 285652,
+    "languages": {
+      "ko": "빙 사무실입니다"
+    },
+    "endTime": 287051
+  },
+  {
+    "startTime": 289856,
+    "languages": {
+      "en": "-Sorry, he's in a meeting.\n-I'm not in a meeting."
+    },
+    "endTime": 293849
+  },
+  {
+    "startTime": 290023,
+    "languages": {
+      "ko": "죄송하지만, 회의중이신데요"
+    },
+    "endTime": 292116
+  },
+  {
+    "startTime": 292292,
+    "languages": {
+      "ko": "뭔 회의, 나 여기..."
+    },
+    "endTime": 293884
+  },
+  {
+    "startTime": 294127,
+    "languages": {
+      "en": "Will he know what\nthis is in reference to?"
+    },
+    "endTime": 296823
+  },
+  {
+    "startTime": 294227,
+    "languages": {
+      "ko": "빙 씨가 아시는 분이죠?\n그쪽 번호도 아시죠?"
+    },
+    "endTime": 298220
+  },
+  {
+    "startTime": 297030,
+    "languages": {
+      "en": "And he has your number?"
+    },
+    "endTime": 298622
+  },
+  {
+    "startTime": 298865,
+    "languages": {
+      "en": "I'll see that he gets\nthe message. Bye-bye."
+    },
+    "endTime": 302528
+  },
+  {
+    "startTime": 298898,
+    "languages": {
+      "ko": "메시지를 전해드리죠\n수고하세요"
+    },
+    "endTime": 301332
+  },
+  {
+    "startTime": 304737,
+    "languages": {
+      "ko": "- 뭐야?\n- 로스 안부전화야!"
+    },
+    "endTime": 306932
+  },
+  {
+    "startTime": 305138,
+    "languages": {
+      "en": "Ross says hi."
+    },
+    "endTime": 307072
+  },
+  {
+    "startTime": 307674,
+    "languages": {
+      "en": "This is so fun.\nWhat do we do now?"
+    },
+    "endTime": 310302
+  },
+  {
+    "startTime": 307840,
+    "languages": {
+      "ko": "이거 재밌다\n이제 뭘 하면 되니?"
+    },
+    "endTime": 310400
+  },
+  {
+    "startTime": 310510,
+    "languages": {
+      "en": "Well, now I actually\nhave to get to work."
+    },
+    "endTime": 313343
+  },
+  {
+    "startTime": 310610,
+    "languages": {
+      "ko": "난 이제 일해야 돼"
+    },
+    "endTime": 313477
+  },
+  {
+    "startTime": 313579,
+    "languages": {
+      "en": "\"Most likely.\""
+    },
+    "endTime": 315240
+  },
+  {
+    "startTime": 313713,
+    "languages": {
+      "ko": "원래 그렇지"
+    },
+    "endTime": 314907
+  },
+  {
+    "startTime": 319118,
+    "languages": {
+      "ko": "- 그럼 나가 있을게\n- 그래"
+    },
+    "endTime": 321586
+  },
+  {
+    "startTime": 319252,
+    "languages": {
+      "en": "Okay, I'm gonna be out there."
+    },
+    "endTime": 321413
+  },
+  {
+    "startTime": 321688,
+    "languages": {
+      "en": "All right. Bye-bye."
+    },
+    "endTime": 323588
+  },
+  {
+    "startTime": 321821,
+    "languages": {
+      "ko": "- 그럼, 바이 바이\n- 바이 바이"
+    },
+    "endTime": 324619
+  },
+  {
+    "startTime": 323823,
+    "languages": {
+      "en": "Bye-bye."
+    },
+    "endTime": 325256
+  },
+  {
+    "startTime": 330930,
+    "languages": {
+      "en": "-Yes?\n-What you doing?"
+    },
+    "endTime": 333797
+  },
+  {
+    "startTime": 331264,
+    "languages": {
+      "ko": "네?"
+    },
+    "endTime": 331889
+  },
+  {
+    "startTime": 332198,
+    "languages": {
+      "ko": "뭐 하니?"
+    },
+    "endTime": 333256
+  },
+  {
+    "startTime": 337003,
+    "languages": {
+      "en": "Okay, windows are clean.\nCandles are lit."
+    },
+    "endTime": 340404
+  },
+  {
+    "startTime": 337236,
+    "languages": {
+      "ko": "창문은 닦았고, 촛불도 켰고\n벨트가 너무 조여, 바꿔야겠어"
+    },
+    "endTime": 342868
+  },
+  {
+    "startTime": 340606,
+    "languages": {
+      "en": "BeIt's too tight.\nGotta change."
+    },
+    "endTime": 342938
+  },
+  {
+    "startTime": 343142,
+    "languages": {
+      "en": "Did I turn the fish?\nNope, because I made lasagna."
+    },
+    "endTime": 347306
+  },
+  {
+    "startTime": 343309,
+    "languages": {
+      "ko": "생선은 뒤집었나?"
+    },
+    "endTime": 344435
+  },
+  {
+    "startTime": 345011,
+    "languages": {
+      "ko": "참, 이거 라자냐지"
+    },
+    "endTime": 346501
+  },
+  {
+    "startTime": 347847,
+    "languages": {
+      "en": "-Am I out of control?\n-Just a touch."
+    },
+    "endTime": 351146
+  },
+  {
+    "startTime": 348081,
+    "languages": {
+      "ko": "- 나 너무 정신없지?\n- 약간"
+    },
+    "endTime": 350811
+  },
+  {
+    "startTime": 351718,
+    "languages": {
+      "en": "I don't understand.\nYou've been dating this guy since..."
+    },
+    "endTime": 355484
+  },
+  {
+    "startTime": 351918,
+    "languages": {
+      "ko": "난 이해가 안돼\n이 친구 만난 게 언제..."
+    },
+    "endTime": 355081
+  },
+  {
+    "startTime": 355688,
+    "languages": {
+      "en": "... his midterms."
+    },
+    "endTime": 357781
+  },
+  {
+    "startTime": 355822,
+    "languages": {
+      "ko": "중간고사 때였나?"
+    },
+    "endTime": 357483
+  },
+  {
+    "startTime": 358291,
+    "languages": {
+      "en": "Why, all of a sudden,\nare you so...?"
+    },
+    "endTime": 360953
+  },
+  {
+    "startTime": 358358,
+    "languages": {
+      "ko": "그런데 왜 갑자기 그렇게..."
+    },
+    "endTime": 360155
+  },
+  {
+    "startTime": 364864,
+    "languages": {
+      "en": "-What?\n-Could tonight be the night?"
+    },
+    "endTime": 369494
+  },
+  {
+    "startTime": 365164,
+    "languages": {
+      "ko": "왜?"
+    },
+    "endTime": 365789
+  },
+  {
+    "startTime": 366799,
+    "languages": {
+      "ko": "오늘이 바로 그날이니?"
+    },
+    "endTime": 369427
+  },
+  {
+    "startTime": 371070,
+    "languages": {
+      "en": "I don't know. He's a great guy..."
+    },
+    "endTime": 374005
+  },
+  {
+    "startTime": 371237,
+    "languages": {
+      "ko": "몰라, 얘는 착한 애야\n같이 있는 것만도 좋아"
+    },
+    "endTime": 375901
+  },
+  {
+    "startTime": 374240,
+    "languages": {
+      "en": "...and I love being with him.\nBut, you know..."
+    },
+    "endTime": 377505
+  },
+  {
+    "startTime": 376676,
+    "languages": {
+      "ko": "일이야 생길 수 있지만\n계획한다고 되는 게..."
+    },
+    "endTime": 381113
+  },
+  {
+    "startTime": 377910,
+    "languages": {
+      "en": "...things happen when they happen.\nYou don't plan these things."
+    },
+    "endTime": 382347
+  },
+  {
+    "startTime": 383182,
+    "languages": {
+      "en": "-So, did you shave your legs?\n-Yeah."
+    },
+    "endTime": 385912
+  },
+  {
+    "startTime": 384117,
+    "languages": {
+      "ko": "오늘 다리 밀었니?"
+    },
+    "endTime": 385015
+  },
+  {
+    "startTime": 385752,
+    "languages": {
+      "ko": "응"
+    },
+    "endTime": 386719
+  },
+  {
+    "startTime": 389989,
+    "languages": {
+      "en": "Would you let it go?\nIt was just a dream."
+    },
+    "endTime": 392981
+  },
+  {
+    "startTime": 390189,
+    "languages": {
+      "ko": "그만 잊어버려, 그건 꿈이야...\n그런다고 해서..."
+    },
+    "endTime": 394751
+  },
+  {
+    "startTime": 393192,
+    "languages": {
+      "en": "It doesn't mean"
+    },
+    "endTime": 394682
+  },
+  {
+    "startTime": 395762,
+    "languages": {
+      "ko": "이런! 왔다!\n애가 나온다, 나온다!"
+    },
+    "endTime": 399596
+  },
+  {
+    "startTime": 396763,
+    "languages": {
+      "en": "This is it. It's baby time!"
+    },
+    "endTime": 399027
+  },
+  {
+    "startTime": 399298,
+    "languages": {
+      "en": "All right, relax. Just relax.\nBe cool."
+    },
+    "endTime": 401823
+  },
+  {
+    "startTime": 399799,
+    "languages": {
+      "ko": "진정해, 진정해\n진정하라구!"
+    },
+    "endTime": 402199
+  },
+  {
+    "startTime": 404036,
+    "languages": {
+      "en": "Yeah, hi. I was just beeped."
+    },
+    "endTime": 405867
+  },
+  {
+    "startTime": 404337,
+    "languages": {
+      "ko": "안녕! 호출 받았어"
+    },
+    "endTime": 405429
+  },
+  {
+    "startTime": 407640,
+    "languages": {
+      "en": "No, Andre is not here.\nThird time today."
+    },
+    "endTime": 412134
+  },
+  {
+    "startTime": 407940,
+    "languages": {
+      "ko": "아뇨, 안드레가 아니에요"
+    },
+    "endTime": 409999
+  },
+  {
+    "startTime": 410176,
+    "languages": {
+      "ko": "오늘만 세 번째야"
+    },
+    "endTime": 412167
+  },
+  {
+    "startTime": 412612,
+    "languages": {
+      "en": "Yes, I am sure."
+    },
+    "endTime": 414204
+  },
+  {
+    "startTime": 412845,
+    "languages": {
+      "ko": "네, 그래요"
+    },
+    "endTime": 413971
+  },
+  {
+    "startTime": 415381,
+    "languages": {
+      "en": "I do not perform\nthose kind of services."
+    },
+    "endTime": 418782
+  },
+  {
+    "startTime": 415581,
+    "languages": {
+      "ko": "선생님, 저는 그런\n서비스는 안 합니다"
+    },
+    "endTime": 418049
+  },
+  {
+    "startTime": 418985,
+    "languages": {
+      "en": "Services?"
+    },
+    "endTime": 420475
+  },
+  {
+    "startTime": 419185,
+    "languages": {
+      "ko": "서비스?"
+    },
+    "endTime": 420277
+  },
+  {
+    "startTime": 420620,
+    "languages": {
+      "ko": "서비스!"
+    },
+    "endTime": 421985
+  },
+  {
+    "startTime": 420720,
+    "languages": {
+      "en": "Oh, services."
+    },
+    "endTime": 421880
+  },
+  {
+    "startTime": 422622,
+    "languages": {
+      "en": "Yeah, you want 55-JUMBO."
+    },
+    "endTime": 425716
+  },
+  {
+    "startTime": 422889,
+    "languages": {
+      "ko": "55-점보를 누르셨죠?"
+    },
+    "endTime": 425187
+  },
+  {
+    "startTime": 428227,
+    "languages": {
+      "ko": "네, 그래요\n맞아요, 저는 짐보예요"
+    },
+    "endTime": 434530
+  },
+  {
+    "startTime": 429695,
+    "languages": {
+      "en": "That's right."
+    },
+    "endTime": 431162
+  },
+  {
+    "startTime": 431364,
+    "languages": {
+      "en": "That's right.\nJUMBO with a \"U,\" sir."
+    },
+    "endTime": 434390
+  },
+  {
+    "startTime": 434634,
+    "languages": {
+      "en": "You don't want me."
+    },
+    "endTime": 436124
+  },
+  {
+    "startTime": 435334,
+    "languages": {
+      "ko": "저는 절대 아니죠"
+    },
+    "endTime": 436494
+  },
+  {
+    "startTime": 436402,
+    "languages": {
+      "en": "Judging by his number,\nI'd be a huge disappointment."
+    },
+    "endTime": 440304
+  },
+  {
+    "startTime": 436669,
+    "languages": {
+      "ko": "자꾸 잘못 걸리니\n크게 실망되시겠어요"
+    },
+    "endTime": 438967
+  },
+  {
+    "startTime": 440840,
+    "languages": {
+      "en": "Alrighty, bye-bye."
+    },
+    "endTime": 442933
+  },
+  {
+    "startTime": 441174,
+    "languages": {
+      "ko": "괜찮아요, 바이 바이"
+    },
+    "endTime": 442436
+  },
+  {
+    "startTime": 443743,
+    "languages": {
+      "ko": "괜찮아"
+    },
+    "endTime": 444573
+  },
+  {
+    "startTime": 446412,
+    "languages": {
+      "ko": "어서들 와!\n첫 출근 어땠어?"
+    },
+    "endTime": 448380
+  },
+  {
+    "startTime": 446746,
+    "languages": {
+      "en": "How was the first day?"
+    },
+    "endTime": 448577
+  },
+  {
+    "startTime": 448815,
+    "languages": {
+      "en": "Excellent.\nEveryone was so, so nice."
+    },
+    "endTime": 452148
+  },
+  {
+    "startTime": 449081,
+    "languages": {
+      "ko": "아주 좋았어\n사람들이 참 좋아"
+    },
+    "endTime": 452448
+  },
+  {
+    "startTime": 452351,
+    "languages": {
+      "en": "It pays to know the man\nwho wears my shoes."
+    },
+    "endTime": 456185
+  },
+  {
+    "startTime": 452652,
+    "languages": {
+      "ko": "당연하지\n누가 소개한 건데"
+    },
+    "endTime": 455382
+  },
+  {
+    "startTime": 456389,
+    "languages": {
+      "en": "Me."
+    },
+    "endTime": 457754
+  },
+  {
+    "startTime": 456489,
+    "languages": {
+      "ko": "나야!"
+    },
+    "endTime": 457046
+  },
+  {
+    "startTime": 459258,
+    "languages": {
+      "ko": "내가 챈들러 친구인줄 몰라"
+    },
+    "endTime": 461089
+  },
+  {
+    "startTime": 459325,
+    "languages": {
+      "en": "-I didn't tell anyone I knew you.\n-Why?"
+    },
+    "endTime": 461816
+  },
+  {
+    "startTime": 461661,
+    "languages": {
+      "ko": "- 왜 몰라?\n- 왜냐면..."
+    },
+    "endTime": 463322
+  },
+  {
+    "startTime": 462028,
+    "languages": {
+      "en": "Well, because, you know."
+    },
+    "endTime": 463825
+  },
+  {
+    "startTime": 464764,
+    "languages": {
+      "en": "They don't like you."
+    },
+    "endTime": 466322
+  },
+  {
+    "startTime": 464864,
+    "languages": {
+      "ko": "나한테 네 욕을 하니까"
+    },
+    "endTime": 465728
+  },
+  {
+    "startTime": 470069,
+    "languages": {
+      "en": "-What?\n-I thought you knew."
+    },
+    "endTime": 472162
+  },
+  {
+    "startTime": 470470,
+    "languages": {
+      "ko": "뭐?"
+    },
+    "endTime": 471027
+  },
+  {
+    "startTime": 471270,
+    "languages": {
+      "ko": "- 넌 몰랐니?\n- 아니"
+    },
+    "endTime": 473238
+  },
+  {
+    "startTime": 475208,
+    "languages": {
+      "en": "-Who doesn't like me?\n-Everyone."
+    },
+    "endTime": 478234
+  },
+  {
+    "startTime": 475274,
+    "languages": {
+      "ko": "누가 날 싫어해?"
+    },
+    "endTime": 476263
+  },
+  {
+    "startTime": 476709,
+    "languages": {
+      "ko": "전부 다!"
+    },
+    "endTime": 477539
+  },
+  {
+    "startTime": 478511,
+    "languages": {
+      "en": "Except for...."
+    },
+    "endTime": 480103
+  },
+  {
+    "startTime": 478644,
+    "languages": {
+      "ko": "누군 아니었는데..."
+    },
+    "endTime": 479804
+  },
+  {
+    "startTime": 480413,
+    "languages": {
+      "en": "No. Everyone."
+    },
+    "endTime": 481937
+  },
+  {
+    "startTime": 480480,
+    "languages": {
+      "ko": "아니, 전부 다"
+    },
+    "endTime": 481412
+  },
+  {
+    "startTime": 484750,
+    "languages": {
+      "en": "-What are you talking about?\n-Don't feel bad."
+    },
+    "endTime": 487776
+  },
+  {
+    "startTime": 484884,
+    "languages": {
+      "ko": "그게 무슨 소리야?"
+    },
+    "endTime": 486078
+  },
+  {
+    "startTime": 486419,
+    "languages": {
+      "ko": "기분 상할 거 없어\n전에는 인기 최고였대"
+    },
+    "endTime": 489718
+  },
+  {
+    "startTime": 488020,
+    "languages": {
+      "en": "They used to like you a lot."
+    },
+    "endTime": 490250
+  },
+  {
+    "startTime": 490423,
+    "languages": {
+      "ko": "그런데 네가 승진하고 나서\n너무 보스 티를 낸다는 거야"
+    },
+    "endTime": 493984
+  },
+  {
+    "startTime": 490456,
+    "languages": {
+      "en": "But you got promoted, and now you're\nMr. Boss Man. Mr. Big."
+    },
+    "endTime": 495223
+  },
+  {
+    "startTime": 494360,
+    "languages": {
+      "ko": "보스! 웃 상사 노릇!"
+    },
+    "endTime": 497090
+  },
+  {
+    "startTime": 495461,
+    "languages": {
+      "en": "Mr. Bing. Boss Man Bing."
+    },
+    "endTime": 498055
+  },
+  {
+    "startTime": 499699,
+    "languages": {
+      "en": "-I can't believe it.\n-Yeah. They even do you."
+    },
+    "endTime": 503135
+  },
+  {
+    "startTime": 499899,
+    "languages": {
+      "ko": "그럴 리 없어!"
+    },
+    "endTime": 501059
+  },
+  {
+    "startTime": 501367,
+    "languages": {
+      "ko": "맞아, 직원들이 흉내도 내"
+    },
+    "endTime": 502925
+  },
+  {
+    "startTime": 504704,
+    "languages": {
+      "en": "They \"do\" me?"
+    },
+    "endTime": 506672
+  },
+  {
+    "startTime": 504937,
+    "languages": {
+      "ko": "내 흉내를?"
+    },
+    "endTime": 505961
+  },
+  {
+    "startTime": 506906,
+    "languages": {
+      "en": "You know, like, okay:"
+    },
+    "endTime": 508533
+  },
+  {
+    "startTime": 507073,
+    "languages": {
+      "ko": "응, 이렇게 해"
+    },
+    "endTime": 509098
+  },
+  {
+    "startTime": 509375,
+    "languages": {
+      "en": "\"Could that report be any later?\""
+    },
+    "endTime": 511707
+  },
+  {
+    "startTime": 509575,
+    "languages": {
+      "ko": "그 보고서는 나중에 봅시다"
+    },
+    "endTime": 511304
+  },
+  {
+    "startTime": 517416,
+    "languages": {
+      "en": "-I don't sound like that.\n-Yeah, you do."
+    },
+    "endTime": 520214
+  },
+  {
+    "startTime": 517550,
+    "languages": {
+      "ko": "난 그렇게 안 해"
+    },
+    "endTime": 518676
+  },
+  {
+    "startTime": 519485,
+    "languages": {
+      "ko": "- 챈들러!\n- 바로 너야"
+    },
+    "endTime": 520679
+  },
+  {
+    "startTime": 522021,
+    "languages": {
+      "en": "\"The hills are alive\nwith the sound..."
+    },
+    "endTime": 524888
+  },
+  {
+    "startTime": 522154,
+    "languages": {
+      "ko": "이 산은 살아 움직이네"
+    },
+    "endTime": 524281
+  },
+  {
+    "startTime": 525358,
+    "languages": {
+      "en": "...of music.\""
+    },
+    "endTime": 527189
+  },
+  {
+    "startTime": 525491,
+    "languages": {
+      "ko": "음악으로!"
+    },
+    "endTime": 526583
+  },
+  {
+    "startTime": 532698,
+    "languages": {
+      "en": "\"My scone. My scone.\""
+    },
+    "endTime": 535690
+  },
+  {
+    "startTime": 532899,
+    "languages": {
+      "ko": "- 내 케익!\n- 내 케익!"
+    },
+    "endTime": 535129
+  },
+  {
+    "startTime": 537837,
+    "languages": {
+      "en": "I don't sound like that.\nThat is so not true."
+    },
+    "endTime": 541238
+  },
+  {
+    "startTime": 537904,
+    "languages": {
+      "ko": "난 안 그래\n절대 안 그래!"
+    },
+    "endTime": 540395
+  },
+  {
+    "startTime": 543376,
+    "languages": {
+      "en": "That is so not\nThat is so not"
+    },
+    "endTime": 545344
+  },
+  {
+    "startTime": 543509,
+    "languages": {
+      "ko": "절대 아냐... 아냐..."
+    },
+    "endTime": 546034
+  },
+  {
+    "startTime": 545611,
+    "languages": {
+      "en": "That\nOh, shut up."
+    },
+    "endTime": 547670
+  },
+  {
+    "startTime": 546379,
+    "languages": {
+      "ko": "그래, 맘대로 해라!"
+    },
+    "endTime": 547243
+  },
+  {
+    "startTime": 551384,
+    "languages": {
+      "en": "-Did not.\n-Up until I was 9..."
+    },
+    "endTime": 553978
+  },
+  {
+    "startTime": 551584,
+    "languages": {
+      "ko": "정말?"
+    },
+    "endTime": 552209
+  },
+  {
+    "startTime": 552385,
+    "languages": {
+      "ko": "난 9살 때까지 총구가\n범죄자 이름인 줄 알았어"
+    },
+    "endTime": 557220
+  },
+  {
+    "startTime": 554287,
+    "languages": {
+      "en": "... I thought \"gunpoint\" was\na place where crimes happened."
+    },
+    "endTime": 557745
+  },
+  {
+    "startTime": 557823,
+    "languages": {
+      "ko": "왜 그런 생각을 했는데?"
+    },
+    "endTime": 558881
+  },
+  {
+    "startTime": 557957,
+    "languages": {
+      "en": "-How's that possible?\n-It's always on the news."
+    },
+    "endTime": 560983
+  },
+  {
+    "startTime": 559091,
+    "languages": {
+      "ko": "생각해봐, 뉴스에서 그러잖아"
+    },
+    "endTime": 560854
+  },
+  {
+    "startTime": 561193,
+    "languages": {
+      "en": "\"A man is being held up at Gunpoint.\""
+    },
+    "endTime": 563787
+  },
+  {
+    "startTime": 561227,
+    "languages": {
+      "ko": "한 남자가 총구에 강도 당하다\n관광객이 총구에 질려버리다"
+    },
+    "endTime": 566722
+  },
+  {
+    "startTime": 563996,
+    "languages": {
+      "en": "\"Tourists are terrorized\nat Gunpoint.\""
+    },
+    "endTime": 566294
+  },
+  {
+    "startTime": 566799,
+    "languages": {
+      "en": "And I kept thinking,\n\"Why do people continue to go there?\""
+    },
+    "endTime": 571236
+  },
+  {
+    "startTime": 566999,
+    "languages": {
+      "ko": "그래서 생각했지, 왜 사람들이\n그 놈을 못 잡을까?"
+    },
+    "endTime": 570025
+  },
+  {
+    "startTime": 575641,
+    "languages": {
+      "en": "I should go."
+    },
+    "endTime": 577871
+  },
+  {
+    "startTime": 575841,
+    "languages": {
+      "ko": "이제 가야겠다"
+    },
+    "endTime": 577069
+  },
+  {
+    "startTime": 578010,
+    "languages": {
+      "ko": "그래"
+    },
+    "endTime": 578601
+  },
+  {
+    "startTime": 584917,
+    "languages": {
+      "ko": "그럼..."
+    },
+    "endTime": 585906
+  },
+  {
+    "startTime": 586652,
+    "languages": {
+      "en": "-Unless\n-What?"
+    },
+    "endTime": 588643
+  },
+  {
+    "startTime": 586786,
+    "languages": {
+      "ko": "- 혹시...\n- 왜?"
+    },
+    "endTime": 587718
+  },
+  {
+    "startTime": 588721,
+    "languages": {
+      "ko": "여기서 자고 가도 돼"
+    },
+    "endTime": 591417
+  },
+  {
+    "startTime": 589855,
+    "languages": {
+      "en": "Unless you wanna stay over."
+    },
+    "endTime": 591982
+  },
+  {
+    "startTime": 592224,
+    "languages": {
+      "en": "I mean, I'm going to. So...."
+    },
+    "endTime": 594852
+  },
+  {
+    "startTime": 592458,
+    "languages": {
+      "ko": "나도 잘 거거든"
+    },
+    "endTime": 594085
+  },
+  {
+    "startTime": 596696,
+    "languages": {
+      "en": "Yeah, I'd really like that."
+    },
+    "endTime": 598823
+  },
+  {
+    "startTime": 596862,
+    "languages": {
+      "ko": "나도 그러고 싶어"
+    },
+    "endTime": 599160
+  },
+  {
+    "startTime": 605104,
+    "languages": {
+      "ko": "여기 함께 있기 전에\n미리 할 말이 있어"
+    },
+    "endTime": 612033
+  },
+  {
+    "startTime": 606105,
+    "languages": {
+      "en": "Before we get into any\nstaying-over stuff..."
+    },
+    "endTime": 610371
+  },
+  {
+    "startTime": 610610,
+    "languages": {
+      "en": "...there's something you should know."
+    },
+    "endTime": 613078
+  },
+  {
+    "startTime": 612778,
+    "languages": {
+      "ko": "설마 \"내일 오전 강의가 있어\""
+    },
+    "endTime": 615440
+  },
+  {
+    "startTime": 613279,
+    "languages": {
+      "en": "Is this, like,\n\"I have an early class tomorrow\"..."
+    },
+    "endTime": 616544
+  },
+  {
+    "startTime": 615648,
+    "languages": {
+      "ko": "\"고향에 벌써 마누라가 있어\"\n같은 건 아니지?"
+    },
+    "endTime": 618674
+  },
+  {
+    "startTime": 616782,
+    "languages": {
+      "en": "...or \"I'm secretly married\nto a goat\"?"
+    },
+    "endTime": 619410
+  },
+  {
+    "startTime": 619919,
+    "languages": {
+      "ko": "그 중간쯤이야"
+    },
+    "endTime": 623116
+  },
+  {
+    "startTime": 619952,
+    "languages": {
+      "en": "Well, it's somewhere in between."
+    },
+    "endTime": 623547
+  },
+  {
+    "startTime": 623756,
+    "languages": {
+      "en": "You see, in a strictly technical\nsense, of course, I'm not...."
+    },
+    "endTime": 627954
+  },
+  {
+    "startTime": 623789,
+    "languages": {
+      "ko": "엄격하게 말해서 기술적으로\n따지자면 그렇다는 건데..."
+    },
+    "endTime": 627452
+  },
+  {
+    "startTime": 628194,
+    "languages": {
+      "en": "Well, I mean, I haven't ever...."
+    },
+    "endTime": 631061
+  },
+  {
+    "startTime": 628260,
+    "languages": {
+      "ko": "그러니까 내 말은..."
+    },
+    "endTime": 631093
+  },
+  {
+    "startTime": 631263,
+    "languages": {
+      "en": "Ethan?"
+    },
+    "endTime": 632594
+  },
+  {
+    "startTime": 631297,
+    "languages": {
+      "ko": "- 이던?\n- 응?"
+    },
+    "endTime": 632025
+  },
+  {
+    "startTime": 633232,
+    "languages": {
+      "en": "Are you a virgin?"
+    },
+    "endTime": 634563
+  },
+  {
+    "startTime": 633432,
+    "languages": {
+      "ko": "너 동정이니?"
+    },
+    "endTime": 634262
+  },
+  {
+    "startTime": 634934,
+    "languages": {
+      "en": "If that's what you kids are\ncalling it these days, then..."
+    },
+    "endTime": 639030
+  },
+  {
+    "startTime": 634967,
+    "languages": {
+      "ko": "네 또래들이 그런 단어를\n쓴다면... 그래 맞아"
+    },
+    "endTime": 640269
+  },
+  {
+    "startTime": 639305,
+    "languages": {
+      "en": "...yes, I am."
+    },
+    "endTime": 641500
+  },
+  {
+    "startTime": 643476,
+    "languages": {
+      "en": "I mean, you're just such a good kisser\nI would never have known."
+    },
+    "endTime": 648175
+  },
+  {
+    "startTime": 643643,
+    "languages": {
+      "ko": "그렇게 키스는 잘하면서?"
+    },
+    "endTime": 648103
+  },
+  {
+    "startTime": 648314,
+    "languages": {
+      "ko": "일단 해본 건 뭐든 잘해"
+    },
+    "endTime": 651943
+  },
+  {
+    "startTime": 648381,
+    "languages": {
+      "en": "Well, I've excelled at every level\nI've been to, I just...."
+    },
+    "endTime": 653114
+  },
+  {
+    "startTime": 655187,
+    "languages": {
+      "ko": "아직 그것만 못해봤어"
+    },
+    "endTime": 658816
+  },
+  {
+    "startTime": 655254,
+    "languages": {
+      "en": "I just haven't been to\nthat particular one yet."
+    },
+    "endTime": 659190
+  },
+  {
+    "startTime": 659392,
+    "languages": {
+      "en": "I've kind of been waiting\nfor the right person."
+    },
+    "endTime": 663954
+  },
+  {
+    "startTime": 659525,
+    "languages": {
+      "ko": "그래, 정말 좋아하는\n사람과 하고 싶었어"
+    },
+    "endTime": 662688
+  },
+  {
+    "startTime": 664163,
+    "languages": {
+      "en": "-Really?\n-Yeah."
+    },
+    "endTime": 666688
+  },
+  {
+    "startTime": 664330,
+    "languages": {
+      "ko": "- 그래?\n- 응"
+    },
+    "endTime": 665797
+  },
+  {
+    "startTime": 667800,
+    "languages": {
+      "en": "You do know I was talking\nabout you, right?"
+    },
+    "endTime": 671327
+  },
+  {
+    "startTime": 667933,
+    "languages": {
+      "ko": "- 그게 바로 너인 건 알지?\n- 알아"
+    },
+    "endTime": 672927
+  },
+  {
+    "startTime": 679245,
+    "languages": {
+      "en": "Wow."
+    },
+    "endTime": 680644
+  },
+  {
+    "startTime": 681814,
+    "languages": {
+      "en": "You keep saying that."
+    },
+    "endTime": 683304
+  },
+  {
+    "startTime": 682248,
+    "languages": {
+      "ko": "왜 자꾸 그러니?"
+    },
+    "endTime": 683613
+  },
+  {
+    "startTime": 683916,
+    "languages": {
+      "en": "You know, you read about it.\nYou see it in the movies."
+    },
+    "endTime": 687352
+  },
+  {
+    "startTime": 683983,
+    "languages": {
+      "ko": "난 책도 보고, 영화도 봤어"
+    },
+    "endTime": 687384
+  },
+  {
+    "startTime": 687586,
+    "languages": {
+      "en": "Even when you practice it at home,\nman, oh, man..."
+    },
+    "endTime": 691181
+  },
+  {
+    "startTime": 687687,
+    "languages": {
+      "ko": "집에서 연습도 해봤는데\n세상에..."
+    },
+    "endTime": 690520
+  },
+  {
+    "startTime": 691590,
+    "languages": {
+      "en": "...it is nothing like that."
+    },
+    "endTime": 694150
+  },
+  {
+    "startTime": 691624,
+    "languages": {
+      "ko": "이건 전혀 달라!"
+    },
+    "endTime": 693717
+  },
+  {
+    "startTime": 696862,
+    "languages": {
+      "en": "Listen, listen."
+    },
+    "endTime": 698591
+  },
+  {
+    "startTime": 696996,
+    "languages": {
+      "ko": "잠깐, 내 말 들어"
+    },
+    "endTime": 698588
+  },
+  {
+    "startTime": 700666,
+    "languages": {
+      "en": "You told me something\nthat was really difficult for you."
+    },
+    "endTime": 704932
+  },
+  {
+    "startTime": 700800,
+    "languages": {
+      "ko": "넌 참으로 힘든 말을\n나한테 다 해줬어"
+    },
+    "endTime": 704361
+  },
+  {
+    "startTime": 705137,
+    "languages": {
+      "en": "And I figure if you can\nbe honest, then I can too."
+    },
+    "endTime": 709267
+  },
+  {
+    "startTime": 705237,
+    "languages": {
+      "ko": "그래서 말인데\n나도 솔직하고 싶어"
+    },
+    "endTime": 709435
+  },
+  {
+    "startTime": 710009,
+    "languages": {
+      "en": "Don't tell me I did it wrong."
+    },
+    "endTime": 712807
+  },
+  {
+    "startTime": 710142,
+    "languages": {
+      "ko": "제발!\n내가 잘못한 건 아니지?"
+    },
+    "endTime": 712042
+  },
+  {
+    "startTime": 713245,
+    "languages": {
+      "ko": "아냐, 그건 아냐\n넌 잘못이 없어"
+    },
+    "endTime": 716737
+  },
+  {
+    "startTime": 715047,
+    "languages": {
+      "en": "Nothing wrong about that."
+    },
+    "endTime": 717106
+  },
+  {
+    "startTime": 719819,
+    "languages": {
+      "ko": "좋아, 한다!"
+    },
+    "endTime": 721582
+  },
+  {
+    "startTime": 720686,
+    "languages": {
+      "en": "Here goes."
+    },
+    "endTime": 722051
+  },
+  {
+    "startTime": 723522,
+    "languages": {
+      "en": "I'm not 22."
+    },
+    "endTime": 725456
+  },
+  {
+    "startTime": 723656,
+    "languages": {
+      "ko": "난 22살이 아냐"
+    },
+    "endTime": 724884
+  },
+  {
+    "startTime": 726025,
+    "languages": {
+      "en": "I'm 25..."
+    },
+    "endTime": 728357
+  },
+  {
+    "startTime": 726125,
+    "languages": {
+      "ko": "난 25하고도..."
+    },
+    "endTime": 727922
+  },
+  {
+    "startTime": 729662,
+    "languages": {
+      "en": "...and 1 3 months."
+    },
+    "endTime": 730993
+  },
+  {
+    "startTime": 729762,
+    "languages": {
+      "ko": "13개월이야"
+    },
+    "endTime": 730956
+  },
+  {
+    "startTime": 734033,
+    "languages": {
+      "en": "But I figure that shouldn't\nchange anything."
+    },
+    "endTime": 737594
+  },
+  {
+    "startTime": 734200,
+    "languages": {
+      "ko": "그런다고 달라질 건 없어\n우리가 몇 살이든 무슨 문제겠어?"
+    },
+    "endTime": 739433
+  },
+  {
+    "startTime": 737803,
+    "languages": {
+      "en": "What does it matter how old we are?\nBasically, I'm nuts about you."
+    },
+    "endTime": 742740
+  },
+  {
+    "startTime": 739939,
+    "languages": {
+      "ko": "사실, 난 네가 좋았어\n첫 키스 때부터 느꼈다구"
+    },
+    "endTime": 745036
+  },
+  {
+    "startTime": 742942,
+    "languages": {
+      "en": "I knew after the first time we kissed.\nYou didn't mention the Tic Tac."
+    },
+    "endTime": 747879
+  },
+  {
+    "startTime": 745277,
+    "languages": {
+      "ko": "네가 표현하지 않아도\n혀끝에서 느낌이 왔어"
+    },
+    "endTime": 748041
+  },
+  {
+    "startTime": 748080,
+    "languages": {
+      "en": "I just thought\nyou were naturally minty."
+    },
+    "endTime": 751140
+  },
+  {
+    "startTime": 748347,
+    "languages": {
+      "ko": "나도 네 향기가\n처음부터 좋았어"
+    },
+    "endTime": 749871
+  },
+  {
+    "startTime": 754620,
+    "languages": {
+      "ko": "그러면 내 말도 들어봐\n서로 솔직하기로 하면..."
+    },
+    "endTime": 758920
+  },
+  {
+    "startTime": 754687,
+    "languages": {
+      "en": "Listen..."
+    },
+    "endTime": 755949
+  },
+  {
+    "startTime": 756655,
+    "languages": {
+      "en": "...as long as we're\ntelling stuff..."
+    },
+    "endTime": 759818
+  },
+  {
+    "startTime": 760760,
+    "languages": {
+      "ko": "나도 할말이 있어요\n제 나이는 더 어려요"
+    },
+    "endTime": 765891
+  },
+  {
+    "startTime": 760826,
+    "languages": {
+      "en": "... I have another one for you."
+    },
+    "endTime": 762953
+  },
+  {
+    "startTime": 763662,
+    "languages": {
+      "en": "I'm a little younger than I said."
+    },
+    "endTime": 766927
+  },
+  {
+    "startTime": 768167,
+    "languages": {
+      "en": "-You're not a senior?\n-Oh, I'm a senior..."
+    },
+    "endTime": 771762
+  },
+  {
+    "startTime": 768234,
+    "languages": {
+      "ko": "상급생 아냐?"
+    },
+    "endTime": 769098
+  },
+  {
+    "startTime": 769802,
+    "languages": {
+      "ko": "상급생은 맞아요"
+    },
+    "endTime": 771269
+  },
+  {
+    "startTime": 775741,
+    "languages": {
+      "ko": "고등학교에서"
+    },
+    "endTime": 776639
+  },
+  {
+    "startTime": 775775,
+    "languages": {
+      "en": "...in high school."
+    },
+    "endTime": 777800
+  },
+  {
+    "startTime": 783215,
+    "languages": {
+      "ko": "그러니?"
+    },
+    "endTime": 784876
+  },
+  {
+    "startTime": 788554,
+    "languages": {
+      "en": "What we did was wrong."
+    },
+    "endTime": 790419
+  },
+  {
+    "startTime": 788587,
+    "languages": {
+      "ko": "우리가 일을 저질렀어\n세상에!"
+    },
+    "endTime": 791112
+  },
+  {
+    "startTime": 790623,
+    "languages": {
+      "en": "I just had sex with someone who\nwasn't alive during the bicentennial."
+    },
+    "endTime": 795822
+  },
+  {
+    "startTime": 791323,
+    "languages": {
+      "ko": "내가 10살 때 태어나지도\n않은 남자랑 섹스를 했어"
+    },
+    "endTime": 794349
+  },
+  {
+    "startTime": 798364,
+    "languages": {
+      "en": "I just had sex."
+    },
+    "endTime": 800355
+  },
+  {
+    "startTime": 798464,
+    "languages": {
+      "ko": "난 드디어 했어요"
+    },
+    "endTime": 799761
+  },
+  {
+    "startTime": 802735,
+    "languages": {
+      "en": "Ethan, focus.\nHow could you not tell me?"
+    },
+    "endTime": 806068
+  },
+  {
+    "startTime": 802902,
+    "languages": {
+      "ko": "이던, 정신 차려!\n왜 말을 하지 않았니?"
+    },
+    "endTime": 806133
+  },
+  {
+    "startTime": 806272,
+    "languages": {
+      "en": "-You never said your age.\n-It's different."
+    },
+    "endTime": 808900
+  },
+  {
+    "startTime": 806305,
+    "languages": {
+      "ko": "누나도 나이를 속였잖아요"
+    },
+    "endTime": 807704
+  },
+  {
+    "startTime": 807907,
+    "languages": {
+      "ko": "그건 달라!"
+    },
+    "endTime": 808999
+  },
+  {
+    "startTime": 809108,
+    "languages": {
+      "en": "My lie didn't make one of us\na felon in 48 states."
+    },
+    "endTime": 813340
+  },
+  {
+    "startTime": 809241,
+    "languages": {
+      "ko": "너 때문에 나는\n미성년자 성폭행범이 됐어"
+    },
+    "endTime": 812301
+  },
+  {
+    "startTime": 813946,
+    "languages": {
+      "en": "-What were you thinking?\n-I was too busy falling"
+    },
+    "endTime": 817074
+  },
+  {
+    "startTime": 814280,
+    "languages": {
+      "ko": "대체 생각이 있니?"
+    },
+    "endTime": 815042
+  },
+  {
+    "startTime": 815247,
+    "languages": {
+      "ko": "난 몰랐어요\n누나한테 홀딱 빠져서..."
+    },
+    "endTime": 817272
+  },
+  {
+    "startTime": 817283,
+    "languages": {
+      "en": "-Don't say it.\n-ln love with you."
+    },
+    "endTime": 820650
+  },
+  {
+    "startTime": 817483,
+    "languages": {
+      "ko": "말하지마!"
+    },
+    "endTime": 818313
+  },
+  {
+    "startTime": 818517,
+    "languages": {
+      "ko": "누나 사랑해요"
+    },
+    "endTime": 819484
+  },
+  {
+    "startTime": 821020,
+    "languages": {
+      "en": "-Really?\n-Sorry."
+    },
+    "endTime": 823454
+  },
+  {
+    "startTime": 821086,
+    "languages": {
+      "ko": "그래?"
+    },
+    "endTime": 821916
+  },
+  {
+    "startTime": 822588,
+    "languages": {
+      "ko": "죄송해요"
+    },
+    "endTime": 823282
+  },
+  {
+    "startTime": 825124,
+    "languages": {
+      "en": "Well, fall out of it."
+    },
+    "endTime": 826614
+  },
+  {
+    "startTime": 825457,
+    "languages": {
+      "ko": "제발 사랑하지 마라"
+    },
+    "endTime": 826719
+  },
+  {
+    "startTime": 826859,
+    "languages": {
+      "en": "You shouldn't be here.\nIt's a school night."
+    },
+    "endTime": 830351
+  },
+  {
+    "startTime": 827059,
+    "languages": {
+      "ko": "넌 여기 있으면 안돼\n이건 보충학습이 아냐!"
+    },
+    "endTime": 829425
+  },
+  {
+    "startTime": 832298,
+    "languages": {
+      "en": "Oh, God."
+    },
+    "endTime": 834129
+  },
+  {
+    "startTime": 832398,
+    "languages": {
+      "ko": "맙소사!"
+    },
+    "endTime": 834161
+  },
+  {
+    "startTime": 834366,
+    "languages": {
+      "en": "I'm like those women\nthat you see..."
+    },
+    "endTime": 836630
+  },
+  {
+    "startTime": 834567,
+    "languages": {
+      "ko": "이제 난 그 이름도 찬란한\n여자들 중에 하나가 됐어"
+    },
+    "endTime": 838901
+  },
+  {
+    "startTime": 836869,
+    "languages": {
+      "en": "...with shiny guys named Chad."
+    },
+    "endTime": 839303
+  },
+  {
+    "startTime": 842474,
+    "languages": {
+      "en": "I'm Joan Collins."
+    },
+    "endTime": 844738
+  },
+  {
+    "startTime": 842541,
+    "languages": {
+      "ko": "난 조안 콜린즈야!"
+    },
+    "endTime": 843701
+  },
+  {
+    "startTime": 847646,
+    "languages": {
+      "en": "Who?"
+    },
+    "endTime": 849136
+  },
+  {
+    "startTime": 847813,
+    "languages": {
+      "ko": "누구죠?"
+    },
+    "endTime": 848279
+  },
+  {
+    "startTime": 857223,
+    "languages": {
+      "en": "Andre should be there\nin about 45 minutes."
+    },
+    "endTime": 860556
+  },
+  {
+    "startTime": 857323,
+    "languages": {
+      "ko": "안드레가 45분 뒤에\n거기로 갑니다"
+    },
+    "endTime": 860019
+  },
+  {
+    "startTime": 863562,
+    "languages": {
+      "en": "Yes, sir, the kimonos are extra."
+    },
+    "endTime": 867464
+  },
+  {
+    "startTime": 863729,
+    "languages": {
+      "ko": "기모노는 비용이\n별도구요"
+    },
+    "endTime": 866254
+  },
+  {
+    "startTime": 868167,
+    "languages": {
+      "en": "Alrighty. Bye-bye."
+    },
+    "endTime": 870192
+  },
+  {
+    "startTime": 868234,
+    "languages": {
+      "ko": "네, 바이 바이"
+    },
+    "endTime": 869531
+  },
+  {
+    "startTime": 872504,
+    "languages": {
+      "ko": "차라리 이게 쉽군"
+    },
+    "endTime": 873766
+  },
+  {
+    "startTime": 872504,
+    "languages": {
+      "en": "It's just easier that way."
+    },
+    "endTime": 874404
+  },
+  {
+    "startTime": 876308,
+    "languages": {
+      "en": "-You told me about the last dream.\n-No. Forget it."
+    },
+    "endTime": 880472
+  },
+  {
+    "startTime": 876442,
+    "languages": {
+      "ko": "전에 네 꿈을 얘기했잖아"
+    },
+    "endTime": 878603
+  },
+  {
+    "startTime": 878811,
+    "languages": {
+      "ko": "아냐! 제발 좀 잊어!"
+    },
+    "endTime": 880369
+  },
+  {
+    "startTime": 880679,
+    "languages": {
+      "en": "Why not? Was I doing\nsomething particularly saucy?"
+    },
+    "endTime": 884638
+  },
+  {
+    "startTime": 880746,
+    "languages": {
+      "ko": "왜 그래? 내가 부분적으로\n너무 외설스러웠니?"
+    },
+    "endTime": 884807
+  },
+  {
+    "startTime": 886819,
+    "languages": {
+      "ko": "좋아"
+    },
+    "endTime": 887581
+  },
+  {
+    "startTime": 886819,
+    "languages": {
+      "en": "All right. Fine."
+    },
+    "endTime": 888286
+  },
+  {
+    "startTime": 888721,
+    "languages": {
+      "ko": "사실...\n꿈에 너만 있던 거 아냐"
+    },
+    "endTime": 892157
+  },
+  {
+    "startTime": 890022,
+    "languages": {
+      "en": "You were not the only one there."
+    },
+    "endTime": 893014
+  },
+  {
+    "startTime": 893692,
+    "languages": {
+      "en": "Joey was there too."
+    },
+    "endTime": 895683
+  },
+  {
+    "startTime": 893759,
+    "languages": {
+      "ko": "조이도 나왔어"
+    },
+    "endTime": 894726
+  },
+  {
+    "startTime": 897329,
+    "languages": {
+      "en": "All right."
+    },
+    "endTime": 898762
+  },
+  {
+    "startTime": 897396,
+    "languages": {
+      "ko": "좋다"
+    },
+    "endTime": 898055
+  },
+  {
+    "startTime": 900032,
+    "languages": {
+      "en": "Was there..."
+    },
+    "endTime": 901590
+  },
+  {
+    "startTime": 900165,
+    "languages": {
+      "ko": "거기..."
+    },
+    "endTime": 901598
+  },
+  {
+    "startTime": 905304,
+    "languages": {
+      "en": "...anybody else there?"
+    },
+    "endTime": 907602
+  },
+  {
+    "startTime": 905371,
+    "languages": {
+      "ko": "또 다른 놈 없었니?"
+    },
+    "endTime": 907100
+  },
+  {
+    "startTime": 908140,
+    "languages": {
+      "ko": "아니"
+    },
+    "endTime": 908663
+  },
+  {
+    "startTime": 909275,
+    "languages": {
+      "en": "You sure? Nobody..."
+    },
+    "endTime": 911266
+  },
+  {
+    "startTime": 909441,
+    "languages": {
+      "ko": "정말이야?\n누가 사탕 같은 거 안 줬니?"
+    },
+    "endTime": 913434
+  },
+  {
+    "startTime": 911477,
+    "languages": {
+      "en": "... handing out mints or anything?"
+    },
+    "endTime": 914139
+  },
+  {
+    "startTime": 916115,
+    "languages": {
+      "en": "No, it was just the three of us."
+    },
+    "endTime": 918913
+  },
+  {
+    "startTime": 916282,
+    "languages": {
+      "ko": "아니, 우리 셋 뿐이었어"
+    },
+    "endTime": 918011
+  },
+  {
+    "startTime": 920786,
+    "languages": {
+      "ko": "그럼, 설명 해봐"
+    },
+    "endTime": 921775
+  },
+  {
+    "startTime": 920786,
+    "languages": {
+      "en": "So was it you and Chandler..."
+    },
+    "endTime": 922515
+  },
+  {
+    "startTime": 921987,
+    "languages": {
+      "ko": "너와 챈들러니, 너와 나니\n아니면 너, 나, 챈들러니?"
+    },
+    "endTime": 925320
+  },
+  {
+    "startTime": 922788,
+    "languages": {
+      "en": "...then you and me,\nor you, me and Chandler?"
+    },
+    "endTime": 926224
+  },
+  {
+    "startTime": 927559,
+    "languages": {
+      "en": "-You know what?\n-What?"
+    },
+    "endTime": 929686
+  },
+  {
+    "startTime": 927693,
+    "languages": {
+      "ko": "- 알고 싶어?\n- 뭔데?"
+    },
+    "endTime": 929456
+  },
+  {
+    "startTime": 930529,
+    "languages": {
+      "en": "There were times..."
+    },
+    "endTime": 932360
+  },
+  {
+    "startTime": 930529,
+    "languages": {
+      "ko": "사실 그때...\n나는 없었어"
+    },
+    "endTime": 934056
+  },
+  {
+    "startTime": 932631,
+    "languages": {
+      "en": "...when it wasn't even me."
+    },
+    "endTime": 934861
+  },
+  {
+    "startTime": 944476,
+    "languages": {
+      "ko": "너희들 참 좋겠다"
+    },
+    "endTime": 946967
+  },
+  {
+    "startTime": 944476,
+    "languages": {
+      "en": "That is so sweet, you guys."
+    },
+    "endTime": 947843
+  },
+  {
+    "startTime": 952017,
+    "languages": {
+      "ko": "- 안녕, 모니카\n- 어서 와"
+    },
+    "endTime": 953678
+  },
+  {
+    "startTime": 953585,
+    "languages": {
+      "en": "Mon, Ethan called again."
+    },
+    "endTime": 956179
+  },
+  {
+    "startTime": 953919,
+    "languages": {
+      "ko": "이던이 또 전화했어"
+    },
+    "endTime": 955386
+  },
+  {
+    "startTime": 958457,
+    "languages": {
+      "ko": "모니카?"
+    },
+    "endTime": 959185
+  },
+  {
+    "startTime": 960292,
+    "languages": {
+      "ko": "모니카!"
+    },
+    "endTime": 961350
+  },
+  {
+    "startTime": 962695,
+    "languages": {
+      "en": "-What?\n-Ethan called again."
+    },
+    "endTime": 965027
+  },
+  {
+    "startTime": 963195,
+    "languages": {
+      "ko": "뭐?"
+    },
+    "endTime": 963786
+  },
+  {
+    "startTime": 964029,
+    "languages": {
+      "ko": "이던이 전화했다구"
+    },
+    "endTime": 965155
+  },
+  {
+    "startTime": 966498,
+    "languages": {
+      "en": "-You're not seeing him anymore?\n-No."
+    },
+    "endTime": 969524
+  },
+  {
+    "startTime": 966665,
+    "languages": {
+      "ko": "- 걔랑 이제 안 만나?\n- 안 만나"
+    },
+    "endTime": 968860
+  },
+  {
+    "startTime": 969835,
+    "languages": {
+      "en": "Sometimes, things don't work out."
+    },
+    "endTime": 972099
+  },
+  {
+    "startTime": 970002,
+    "languages": {
+      "ko": "가끔 틀어질 때도 있지"
+    },
+    "endTime": 972163
+  },
+  {
+    "startTime": 972438,
+    "languages": {
+      "en": "This has nothing to do with him\nneeding a note to get out of gym?"
+    },
+    "endTime": 977705
+  },
+  {
+    "startTime": 972638,
+    "languages": {
+      "ko": "그 꼬마가 체육시간에\n허리라도 틀어졌대?"
+    },
+    "endTime": 976301
+  },
+  {
+    "startTime": 980679,
+    "languages": {
+      "en": "I did not say anything. I swear."
+    },
+    "endTime": 983705
+  },
+  {
+    "startTime": 980846,
+    "languages": {
+      "ko": "나는 말 안 했어\n절대로 안 했어"
+    },
+    "endTime": 984043
+  },
+  {
+    "startTime": 983983,
+    "languages": {
+      "en": "-He stopped by.\n-Next time you talk to him..."
+    },
+    "endTime": 986816
+  },
+  {
+    "startTime": 984316,
+    "languages": {
+      "ko": "걔가 왔었어"
+    },
+    "endTime": 985283
+  },
+  {
+    "startTime": 985584,
+    "languages": {
+      "ko": "다음에 걔를 만나면"
+    },
+    "endTime": 987245
+  },
+  {
+    "startTime": 987019,
+    "languages": {
+      "en": "...could you ask him which one\nthe strongest Power Ranger is?"
+    },
+    "endTime": 991183
+  },
+  {
+    "startTime": 987453,
+    "languages": {
+      "ko": "파워 레인저 중에\n누가 제일 센지 물어볼래?"
+    },
+    "endTime": 990286
+  },
+  {
+    "startTime": 993192,
+    "languages": {
+      "en": "Oh, my life is just so amusing.\nCan we drop it now?"
+    },
+    "endTime": 996958
+  },
+  {
+    "startTime": 993392,
+    "languages": {
+      "ko": "내 인생은 너무나 즐거워"
+    },
+    "endTime": 995360
+  },
+  {
+    "startTime": 996295,
+    "languages": {
+      "ko": "이제 그만 좀 할래?"
+    },
+    "endTime": 997023
+  },
+  {
+    "startTime": 997196,
+    "languages": {
+      "en": "Sorry."
+    },
+    "endTime": 998390
+  },
+  {
+    "startTime": 997262,
+    "languages": {
+      "ko": "- 미안해\n- 그래"
+    },
+    "endTime": 998524
+  },
+  {
+    "startTime": 999064,
+    "languages": {
+      "en": "\"It's morphin'time.\""
+    },
+    "endTime": 1000497
+  },
+  {
+    "startTime": 999198,
+    "languages": {
+      "ko": "변신 시간이다!"
+    },
+    "endTime": 1000665
+  },
+  {
+    "startTime": 1000699,
+    "languages": {
+      "en": "-Stegosaurus.\n-Tyrannosaurus."
+    },
+    "endTime": 1003566
+  },
+  {
+    "startTime": 1000899,
+    "languages": {
+      "ko": "- 검룡이다!\n- 티라노사우루스!"
+    },
+    "endTime": 1003060
+  },
+  {
+    "startTime": 1007606,
+    "languages": {
+      "ko": "가봐야겠어"
+    },
+    "endTime": 1008868
+  },
+  {
+    "startTime": 1007940,
+    "languages": {
+      "en": "I gotta go."
+    },
+    "endTime": 1009305
+  },
+  {
+    "startTime": 1009375,
+    "languages": {
+      "ko": "머리가 아파"
+    },
+    "endTime": 1010535
+  },
+  {
+    "startTime": 1009641,
+    "languages": {
+      "en": "Head rush."
+    },
+    "endTime": 1010972
+  },
+  {
+    "startTime": 1013145,
+    "languages": {
+      "en": "One more, and then I have to go."
+    },
+    "endTime": 1015841
+  },
+  {
+    "startTime": 1013379,
+    "languages": {
+      "ko": "한번 더, 이제 갈게"
+    },
+    "endTime": 1015108
+  },
+  {
+    "startTime": 1016081,
+    "languages": {
+      "en": "Cool."
+    },
+    "endTime": 1017378
+  },
+  {
+    "startTime": 1016315,
+    "languages": {
+      "ko": "됐다"
+    },
+    "endTime": 1017077
+  },
+  {
+    "startTime": 1020953,
+    "languages": {
+      "en": "Where you going?"
+    },
+    "endTime": 1022614
+  },
+  {
+    "startTime": 1021053,
+    "languages": {
+      "ko": "어디 가니?"
+    },
+    "endTime": 1021985
+  },
+  {
+    "startTime": 1022755,
+    "languages": {
+      "ko": "직장 동료들하고\n생일 파티 가야돼"
+    },
+    "endTime": 1025485
+  },
+  {
+    "startTime": 1022821,
+    "languages": {
+      "en": "A birthday party\nwith some work people."
+    },
+    "endTime": 1025449
+  },
+  {
+    "startTime": 1025657,
+    "languages": {
+      "en": "Work people? Nobody told me."
+    },
+    "endTime": 1029320
+  },
+  {
+    "startTime": 1025758,
+    "languages": {
+      "ko": "직장 동료?"
+    },
+    "endTime": 1026554
+  },
+  {
+    "startTime": 1028360,
+    "languages": {
+      "ko": "나도 모르는데!"
+    },
+    "endTime": 1029418
+  },
+  {
+    "startTime": 1029595,
+    "languages": {
+      "en": "I know.\nThat's part of the whole..."
+    },
+    "endTime": 1031825
+  },
+  {
+    "startTime": 1029661,
+    "languages": {
+      "ko": "널 좋아하지 않는 사람들끼리\n모여서 노는 거니까"
+    },
+    "endTime": 1033927
+  },
+  {
+    "startTime": 1032097,
+    "languages": {
+      "en": "...them-not-liking-you\nextravaganza."
+    },
+    "endTime": 1035294
+  },
+  {
+    "startTime": 1036702,
+    "languages": {
+      "en": "A month ago,\nthese people were my friends."
+    },
+    "endTime": 1039694
+  },
+  {
+    "startTime": 1036802,
+    "languages": {
+      "ko": "이해가 안돼\n한 달 전엔 모두 내 친구였어"
+    },
+    "endTime": 1039794
+  },
+  {
+    "startTime": 1039972,
+    "languages": {
+      "en": "I'm in charge,\nbut I'm not a different person."
+    },
+    "endTime": 1042964
+  },
+  {
+    "startTime": 1040005,
+    "languages": {
+      "ko": "내가 윗자리로 갔다고\n딴 사람이 된 건 아니잖아"
+    },
+    "endTime": 1043031
+  },
+  {
+    "startTime": 1043308,
+    "languages": {
+      "en": "Then come, hang out. Let them see\nwhat a great guy you still are."
+    },
+    "endTime": 1048143
+  },
+  {
+    "startTime": 1043375,
+    "languages": {
+      "ko": "그럼 오늘 같이 가서\n함께 즐겨봐"
+    },
+    "endTime": 1046173
+  },
+  {
+    "startTime": 1046412,
+    "languages": {
+      "ko": "네가 아직도 괜찮은\n사람이라는 걸 보여줘"
+    },
+    "endTime": 1048209
+  },
+  {
+    "startTime": 1048347,
+    "languages": {
+      "en": "-You think I should?\n-I really do."
+    },
+    "endTime": 1050508
+  },
+  {
+    "startTime": 1048447,
+    "languages": {
+      "ko": "- 꼭 그래야 할까?\n- 그게 좋아, 그래"
+    },
+    "endTime": 1050506
+  },
+  {
+    "startTime": 1050983,
+    "languages": {
+      "ko": "- 좋아\n- 그래"
+    },
+    "endTime": 1051711
+  },
+  {
+    "startTime": 1051884,
+    "languages": {
+      "ko": "- 그래\n- 우리 따로 가는 게 어떨까?"
+    },
+    "endTime": 1054375
+  },
+  {
+    "startTime": 1052618,
+    "languages": {
+      "en": "But could we not go together?"
+    },
+    "endTime": 1055212
+  },
+  {
+    "startTime": 1055954,
+    "languages": {
+      "en": "I don't wanna be the geek\nwho invited the boss."
+    },
+    "endTime": 1059515
+  },
+  {
+    "startTime": 1055988,
+    "languages": {
+      "ko": "상사를 초대한\n사람이 되기 싫거든"
+    },
+    "endTime": 1058422
+  },
+  {
+    "startTime": 1063462,
+    "languages": {
+      "en": "-Hey, you okay?\n-Yeah."
+    },
+    "endTime": 1066090
+  },
+  {
+    "startTime": 1063562,
+    "languages": {
+      "ko": "- 너 괜찮니?\n- 응"
+    },
+    "endTime": 1065553
+  },
+  {
+    "startTime": 1065964,
+    "languages": {
+      "ko": "그 녀석도 힘들 거야"
+    },
+    "endTime": 1069695
+  },
+  {
+    "startTime": 1066298,
+    "languages": {
+      "en": "-This can't be easy for him either.\n-I know."
+    },
+    "endTime": 1070928
+  },
+  {
+    "startTime": 1070235,
+    "languages": {
+      "ko": "알아"
+    },
+    "endTime": 1070894
+  },
+  {
+    "startTime": 1071070,
+    "languages": {
+      "ko": "걔는 이번 일을 잊으려면\n시간이 좀 걸릴 거야"
+    },
+    "endTime": 1074528
+  },
+  {
+    "startTime": 1071136,
+    "languages": {
+      "en": "This may take some time\nfor him to get over it..."
+    },
+    "endTime": 1075266
+  },
+  {
+    "startTime": 1075474,
+    "languages": {
+      "ko": "그래도 새벽 4시면\n네 생각만 할거다"
+    },
+    "endTime": 1078238
+  },
+  {
+    "startTime": 1075474,
+    "languages": {
+      "en": "... but, then at four,\nMuppet Babies is on."
+    },
+    "endTime": 1079171
+  },
+  {
+    "startTime": 1086018,
+    "languages": {
+      "ko": "월트, 받아\n뒤로, 뒤로!"
+    },
+    "endTime": 1088384
+  },
+  {
+    "startTime": 1086051,
+    "languages": {
+      "en": "Go deep. Deep. Deep."
+    },
+    "endTime": 1089543
+  },
+  {
+    "startTime": 1090823,
+    "languages": {
+      "en": "Sorry, Shelly."
+    },
+    "endTime": 1092723
+  },
+  {
+    "startTime": 1091023,
+    "languages": {
+      "ko": "미안해, 쉘리"
+    },
+    "endTime": 1091921
+  },
+  {
+    "startTime": 1094927,
+    "languages": {
+      "en": "See, with the fun?"
+    },
+    "endTime": 1096827
+  },
+  {
+    "startTime": 1095127,
+    "languages": {
+      "ko": "거봐, 재밌어하지?"
+    },
+    "endTime": 1096094
+  },
+  {
+    "startTime": 1098363,
+    "languages": {
+      "en": "Last night was great."
+    },
+    "endTime": 1099853
+  },
+  {
+    "startTime": 1098464,
+    "languages": {
+      "ko": "어제 정말 즐거웠어\n가라오케 기억나지?"
+    },
+    "endTime": 1100762
+  },
+  {
+    "startTime": 1100099,
+    "languages": {
+      "en": "The karaoke thing?\nTracy and I doing \"Ebony and lvory.\""
+    },
+    "endTime": 1103796
+  },
+  {
+    "startTime": 1100966,
+    "languages": {
+      "ko": "트레이시와 내가 함께\n노래를 불렀잖아"
+    },
+    "endTime": 1102797
+  },
+  {
+    "startTime": 1104036,
+    "languages": {
+      "en": "You were great.\nBut they still made fun of you."
+    },
+    "endTime": 1107335
+  },
+  {
+    "startTime": 1104369,
+    "languages": {
+      "ko": "잘했어! 그런데 아직도\n네 얘기를 해"
+    },
+    "endTime": 1106803
+  },
+  {
+    "startTime": 1107539,
+    "languages": {
+      "en": "-What?\n-Now you're Mr. Caring Boss."
+    },
+    "endTime": 1110235
+  },
+  {
+    "startTime": 1107606,
+    "languages": {
+      "ko": "뭐?"
+    },
+    "endTime": 1108129
+  },
+  {
+    "startTime": 1108340,
+    "languages": {
+      "ko": "이젠 사람들이\n네가 부담스런 상사래"
+    },
+    "endTime": 1110399
+  },
+  {
+    "startTime": 1110509,
+    "languages": {
+      "en": "Mr. I'm-one-of-you Boss."
+    },
+    "endTime": 1112033
+  },
+  {
+    "startTime": 1110576,
+    "languages": {
+      "ko": "난 보통사람, 보스다\n여러분의 친구, 보스 빙"
+    },
+    "endTime": 1114034
+  },
+  {
+    "startTime": 1112244,
+    "languages": {
+      "en": "Mr. I-wanna-be-your-buddy\nBoss Man Bing."
+    },
+    "endTime": 1115008
+  },
+  {
+    "startTime": 1116348,
+    "languages": {
+      "en": "Then I don't get it."
+    },
+    "endTime": 1117906
+  },
+  {
+    "startTime": 1116381,
+    "languages": {
+      "ko": "어느 장단에 춤을 추냐"
+    },
+    "endTime": 1117348
+  },
+  {
+    "startTime": 1118851,
+    "languages": {
+      "en": "You know what?\nI think you just gotta face it."
+    },
+    "endTime": 1122617
+  },
+  {
+    "startTime": 1118917,
+    "languages": {
+      "ko": "내 말 들어, 챈들러\n그냥 현실을 인정해"
+    },
+    "endTime": 1122375
+  },
+  {
+    "startTime": 1122588,
+    "languages": {
+      "ko": "넌 큰 사무실에서 일해"
+    },
+    "endTime": 1125113
+  },
+  {
+    "startTime": 1122821,
+    "languages": {
+      "en": "You're the guy in the big office."
+    },
+    "endTime": 1125255
+  },
+  {
+    "startTime": 1125491,
+    "languages": {
+      "en": "You're the one that hires\nand fires them."
+    },
+    "endTime": 1128358
+  },
+  {
+    "startTime": 1125557,
+    "languages": {
+      "ko": "사람들을 고용하고 해고해도\n여전히 좋은 상사로 생각해"
+    },
+    "endTime": 1130119
+  },
+  {
+    "startTime": 1128594,
+    "languages": {
+      "en": "-They say you're a great boss.\n-They do?"
+    },
+    "endTime": 1131256
+  },
+  {
+    "startTime": 1130762,
+    "languages": {
+      "ko": "그래?"
+    },
+    "endTime": 1131353
+  },
+  {
+    "startTime": 1132498,
+    "languages": {
+      "en": "But they're not\nyour friends anymore."
+    },
+    "endTime": 1134966
+  },
+  {
+    "startTime": 1132831,
+    "languages": {
+      "ko": "직원들은 더 이상\n네 친구가 아냐"
+    },
+    "endTime": 1134162
+  },
+  {
+    "startTime": 1135200,
+    "languages": {
+      "en": "-I just want\n-But you can't."
+    },
+    "endTime": 1137930
+  },
+  {
+    "startTime": 1135267,
+    "languages": {
+      "ko": "- 그래도 나는...\n- 그럴 수 없어!"
+    },
+    "endTime": 1137098
+  },
+  {
+    "startTime": 1138170,
+    "languages": {
+      "en": "But I just want"
+    },
+    "endTime": 1140331
+  },
+  {
+    "startTime": 1138203,
+    "languages": {
+      "ko": "- 그래도 나는...\n- 안돼"
+    },
+    "endTime": 1139363
+  },
+  {
+    "startTime": 1150115,
+    "languages": {
+      "en": "Are you gonna?"
+    },
+    "endTime": 1151173
+  },
+  {
+    "startTime": 1150549,
+    "languages": {
+      "ko": "안 받아...?"
+    },
+    "endTime": 1151106
+  },
+  {
+    "startTime": 1151283,
+    "languages": {
+      "ko": "캐롤과 암호를 바꿨어"
+    },
+    "endTime": 1153251
+  },
+  {
+    "startTime": 1151383,
+    "languages": {
+      "en": "Carol and I have a new system.\nIf she punches in 9-1 -1..."
+    },
+    "endTime": 1155149
+  },
+  {
+    "startTime": 1153452,
+    "languages": {
+      "ko": "911이 찍히면 아기가\n나온다는 뜻이야"
+    },
+    "endTime": 1156910
+  },
+  {
+    "startTime": 1155354,
+    "languages": {
+      "en": "...she's having a baby.\nOtherwise, I just ignore it."
+    },
+    "endTime": 1158755
+  },
+  {
+    "startTime": 1157156,
+    "languages": {
+      "ko": "그게 아니면\n다 무시할 거야"
+    },
+    "endTime": 1158817
+  },
+  {
+    "startTime": 1158957,
+    "languages": {
+      "en": "What about Andre?"
+    },
+    "endTime": 1160219
+  },
+  {
+    "startTime": 1159024,
+    "languages": {
+      "ko": "안드레는?"
+    },
+    "endTime": 1160013
+  },
+  {
+    "startTime": 1160259,
+    "languages": {
+      "ko": "오늘 아침에 사촌 네이선이\n거기로 전화를 했는데"
+    },
+    "endTime": 1164423
+  },
+  {
+    "startTime": 1160425,
+    "languages": {
+      "en": "He got a call\nfrom our cousin, Nathan."
+    },
+    "endTime": 1163485
+  },
+  {
+    "startTime": 1163695,
+    "languages": {
+      "en": "Frankly, it was a little more\nthan I needed to know."
+    },
+    "endTime": 1167631
+  },
+  {
+    "startTime": 1164630,
+    "languages": {
+      "ko": "솔직히, 별로 알고 싶지\n않은 내용이었어"
+    },
+    "endTime": 1166598
+  },
+  {
+    "startTime": 1173071,
+    "languages": {
+      "ko": "안녕!"
+    },
+    "endTime": 1173765
+  },
+  {
+    "startTime": 1175207,
+    "languages": {
+      "en": "That was gonna be my opener."
+    },
+    "endTime": 1177675
+  },
+  {
+    "startTime": 1175307,
+    "languages": {
+      "ko": "항상 내 첫 대사였는데"
+    },
+    "endTime": 1176331
+  },
+  {
+    "startTime": 1178076,
+    "languages": {
+      "en": "Have you guys seen those\nnew hand dryers in the bathroom?"
+    },
+    "endTime": 1181944
+  },
+  {
+    "startTime": 1178143,
+    "languages": {
+      "ko": "얘들아!"
+    },
+    "endTime": 1178837
+  },
+  {
+    "startTime": 1179545,
+    "languages": {
+      "ko": "여기 화장실에 있는\n손 건조기 써본 사람?"
+    },
+    "endTime": 1181809
+  },
+  {
+    "startTime": 1182147,
+    "languages": {
+      "en": "-I thought that was just a rumor.\n-True story."
+    },
+    "endTime": 1185446
+  },
+  {
+    "startTime": 1182247,
+    "languages": {
+      "ko": "- 소문 아니었어?\n- 진짜 있어"
+    },
+    "endTime": 1183874
+  },
+  {
+    "startTime": 1189087,
+    "languages": {
+      "en": "Look, I gotta tell you something."
+    },
+    "endTime": 1191317
+  },
+  {
+    "startTime": 1189221,
+    "languages": {
+      "ko": "봐요! 내 말 좀 들어봐요\n난 17살이 아니에요"
+    },
+    "endTime": 1192622
+  },
+  {
+    "startTime": 1191557,
+    "languages": {
+      "en": "I'm not 1 7. I said that so you'd\nthink I was vulnerable."
+    },
+    "endTime": 1195357
+  },
+  {
+    "startTime": 1193025,
+    "languages": {
+      "ko": "그냥 모성본능을\n일으키려고 그런 거죠"
+    },
+    "endTime": 1195118
+  },
+  {
+    "startTime": 1195594,
+    "languages": {
+      "en": "I'm actually 30. I have a wife\nand a job. I'm your congressman."
+    },
+    "endTime": 1200031
+  },
+  {
+    "startTime": 1195661,
+    "languages": {
+      "ko": "난 사실 서른이에요"
+    },
+    "endTime": 1196628
+  },
+  {
+    "startTime": 1197162,
+    "languages": {
+      "ko": "아내도, 직업도 있어요\n누나보다 훨씬 위라구요"
+    },
+    "endTime": 1199562
+  },
+  {
+    "startTime": 1201366,
+    "languages": {
+      "en": "This is ridiculous.\nWe're great together."
+    },
+    "endTime": 1204028
+  },
+  {
+    "startTime": 1201600,
+    "languages": {
+      "ko": "모니카, 이건 바보짓이에요\n우리 좋았잖아요"
+    },
+    "endTime": 1204091
+  },
+  {
+    "startTime": 1204269,
+    "languages": {
+      "en": "We can talk, make each other\nlaugh, and the sex...."
+    },
+    "endTime": 1208171
+  },
+  {
+    "startTime": 1204436,
+    "languages": {
+      "ko": "함께 얘기도 하고 웃었죠\n섹스도... 세상에!"
+    },
+    "endTime": 1208202
+  },
+  {
+    "startTime": 1208407,
+    "languages": {
+      "en": "I have no frame of reference,\nbut I thought that was great."
+    },
+    "endTime": 1212309
+  },
+  {
+    "startTime": 1208574,
+    "languages": {
+      "ko": "저는 사회에 기반은 없지만\n그것도 괜찮잖아요"
+    },
+    "endTime": 1211065
+  },
+  {
+    "startTime": 1212511,
+    "languages": {
+      "en": "-lt was.\n-Then what's the problem?"
+    },
+    "endTime": 1215480
+  },
+  {
+    "startTime": 1212578,
+    "languages": {
+      "ko": "- 그랬지\n- 뭐가 문제죠?"
+    },
+    "endTime": 1214409
+  },
+  {
+    "startTime": 1217015,
+    "languages": {
+      "en": "Ethan, it's...."
+    },
+    "endTime": 1219006
+  },
+  {
+    "startTime": 1217216,
+    "languages": {
+      "ko": "이던, 우린..."
+    },
+    "endTime": 1218444
+  },
+  {
+    "startTime": 1221119,
+    "languages": {
+      "en": "It's icky."
+    },
+    "endTime": 1222950
+  },
+  {
+    "startTime": 1221186,
+    "languages": {
+      "ko": "세대가 틀려"
+    },
+    "endTime": 1222050
+  },
+  {
+    "startTime": 1223388,
+    "languages": {
+      "en": "\"lcky\"?"
+    },
+    "endTime": 1224719
+  },
+  {
+    "startTime": 1223488,
+    "languages": {
+      "ko": "세대요? 고작 세대 때문에\n끝낸다는 거예요?"
+    },
+    "endTime": 1228050
+  },
+  {
+    "startTime": 1224923,
+    "languages": {
+      "en": "You're actually gonna throw this away\nbecause it's \"icky\"?"
+    },
+    "endTime": 1229485
+  },
+  {
+    "startTime": 1229695,
+    "languages": {
+      "en": "This isn't easy for me either.\nI wish things were different."
+    },
+    "endTime": 1233756
+  },
+  {
+    "startTime": 1229795,
+    "languages": {
+      "ko": "나도 쉽지 않아"
+    },
+    "endTime": 1231490
+  },
+  {
+    "startTime": 1232231,
+    "languages": {
+      "ko": "시대가 달랐으면 좋겠어"
+    },
+    "endTime": 1233425
+  },
+  {
+    "startTime": 1233999,
+    "languages": {
+      "ko": "네가 나이가 좀 더 많거나\n내가 좀 더 어리거나"
+    },
+    "endTime": 1237127
+  },
+  {
+    "startTime": 1234032,
+    "languages": {
+      "en": "If you were older\nor I was younger..."
+    },
+    "endTime": 1236592
+  },
+  {
+    "startTime": 1236835,
+    "languages": {
+      "en": "...or we lived in biblical times..."
+    },
+    "endTime": 1240293
+  },
+  {
+    "startTime": 1238237,
+    "languages": {
+      "ko": "아님 우리가\n2백년 전에 살았으면..."
+    },
+    "endTime": 1239966
+  },
+  {
+    "startTime": 1240505,
+    "languages": {
+      "en": "-... I could really\n-No, don't say it."
+    },
+    "endTime": 1243065
+  },
+  {
+    "startTime": 1241173,
+    "languages": {
+      "ko": "그런 말 말아요"
+    },
+    "endTime": 1242105
+  },
+  {
+    "startTime": 1243208,
+    "languages": {
+      "ko": "사랑해"
+    },
+    "endTime": 1243970
+  },
+  {
+    "startTime": 1243275,
+    "languages": {
+      "en": "Love you."
+    },
+    "endTime": 1245140
+  },
+  {
+    "startTime": 1248914,
+    "languages": {
+      "en": "-Are your hands still wet?\n-Moist."
+    },
+    "endTime": 1251314
+  },
+  {
+    "startTime": 1249147,
+    "languages": {
+      "ko": "- 손에 땀났지?\n- 응, 젖었어"
+    },
+    "endTime": 1251047
+  },
+  {
+    "startTime": 1251416,
+    "languages": {
+      "ko": "건조기로 말리자"
+    },
+    "endTime": 1252542
+  },
+  {
+    "startTime": 1251516,
+    "languages": {
+      "en": "Let's dry them again."
+    },
+    "endTime": 1253450
+  },
+  {
+    "startTime": 1259258,
+    "languages": {
+      "ko": "이 마르가리타가 더 센가?"
+    },
+    "endTime": 1261818
+  },
+  {
+    "startTime": 1259291,
+    "languages": {
+      "en": "Or, like, \"Could these margaritas\nbe any stronger?\""
+    },
+    "endTime": 1263057
+  },
+  {
+    "startTime": 1264896,
+    "languages": {
+      "ko": "안녕, 챈들러"
+    },
+    "endTime": 1265555
+  },
+  {
+    "startTime": 1264930,
+    "languages": {
+      "en": "Hey, Chandler."
+    },
+    "endTime": 1266090
+  },
+  {
+    "startTime": 1266331,
+    "languages": {
+      "ko": "안녕하세요, 빙 씨"
+    },
+    "endTime": 1267423
+  },
+  {
+    "startTime": 1266365,
+    "languages": {
+      "en": "Hello, Mr. Bing."
+    },
+    "endTime": 1267696
+  },
+  {
+    "startTime": 1267933,
+    "languages": {
+      "ko": "어제 스티비 원더 노래\n좋았어요"
+    },
+    "endTime": 1269764
+  },
+  {
+    "startTime": 1267933,
+    "languages": {
+      "en": "Loved your Stevie Wonder last night."
+    },
+    "endTime": 1271232
+  },
+  {
+    "startTime": 1272137,
+    "languages": {
+      "ko": "고마워요, 주 단위 보고서는\n9시까지 내 방으로 가져와요"
+    },
+    "endTime": 1276540
+  },
+  {
+    "startTime": 1272137,
+    "languages": {
+      "en": "Thanks. About the weekly numbers, I'm\ngonna need them on my desk by 9:00."
+    },
+    "endTime": 1277268
+  },
+  {
+    "startTime": 1277476,
+    "languages": {
+      "en": "-Sure.\n-No problem."
+    },
+    "endTime": 1279376
+  },
+  {
+    "startTime": 1277542,
+    "languages": {
+      "ko": "- 그러죠\n- 가능합니다"
+    },
+    "endTime": 1279032
+  },
+  {
+    "startTime": 1282414,
+    "languages": {
+      "en": "You have to give them something."
+    },
+    "endTime": 1284507
+  },
+  {
+    "startTime": 1282648,
+    "languages": {
+      "ko": "네가 잘 좀 맞춰 줘"
+    },
+    "endTime": 1284115
+  },
+  {
+    "startTime": 1284683,
+    "languages": {
+      "ko": "거스턴, 산토스 그리고\n콧수염 난 친구는?"
+    },
+    "endTime": 1287914
+  },
+  {
+    "startTime": 1284716,
+    "languages": {
+      "en": "That was Gerston, Santos, and\nwho's the other guy?"
+    },
+    "endTime": 1287981
+  },
+  {
+    "startTime": 1288153,
+    "languages": {
+      "ko": "- 페트리\n- 페트리, 그래"
+    },
+    "endTime": 1290644
+  },
+  {
+    "startTime": 1288186,
+    "languages": {
+      "en": "-Petrie.\n-Petrie. Right, okay."
+    },
+    "endTime": 1290086
+  },
+  {
+    "startTime": 1290322,
+    "languages": {
+      "en": "Well, some people\nare gonna be working..."
+    },
+    "endTime": 1292950
+  },
+  {
+    "startTime": 1291223,
+    "languages": {
+      "ko": "저들 중에\n일꾼을 뽑아야지"
+    },
+    "endTime": 1292554
+  },
+  {
+    "startTime": 1293158,
+    "languages": {
+      "en": "...this weekend."
+    },
+    "endTime": 1295524
+  },
+  {
+    "startTime": 1293225,
+    "languages": {
+      "ko": "주말 특근에!"
+    },
+    "endTime": 1294556
+  },
+  {
+    "startTime": 1324690,
+    "languages": {
+      "en": "Oh, that's nice."
+    },
+    "endTime": 1326282
+  },
+  {
+    "startTime": 1324690,
+    "languages": {
+      "ko": "너무 좋아"
+    },
+    "endTime": 1326715
+  },
+  {
+    "startTime": 1332030,
+    "languages": {
+      "ko": "로스!"
+    },
+    "endTime": 1333224
+  },
+  {
+    "startTime": 1332097,
+    "languages": {
+      "en": "Ross."
+    },
+    "endTime": 1334031
+  },
+  {
+    "startTime": 1342908,
+    "languages": {
+      "ko": "- 로스?\n- 여기 있어"
+    },
+    "endTime": 1344398
+  },
+  {
+    "startTime": 1343709,
+    "languages": {
+      "en": "I'm here."
+    },
+    "endTime": 1345540
+  },
+  {
+    "startTime": 1347279,
+    "languages": {
+      "en": "You are?"
+    },
+    "endTime": 1348712
+  },
+  {
+    "startTime": 1347379,
+    "languages": {
+      "ko": "그래?"
+    },
+    "endTime": 1348004
+  },
+  {
+    "startTime": 1352951,
+    "languages": {
+      "ko": "우리 그럼... 와우!"
+    },
+    "endTime": 1357217
+  },
+  {
+    "startTime": 1354086,
+    "languages": {
+      "en": "We were just...."
+    },
+    "endTime": 1355883
+  },
+  {
+    "startTime": 1357723,
+    "languages": {
+      "en": "What?"
+    },
+    "endTime": 1359315
+  },
+  {
+    "startTime": 1357823,
+    "languages": {
+      "ko": "뭐?"
+    },
+    "endTime": 1358380
+  },
+  {
+    "startTime": 1361960,
+    "languages": {
+      "en": "-Great. Now I'm having a baby.\n-What?"
+    },
+    "endTime": 1365225
+  },
+  {
+    "startTime": 1362060,
+    "languages": {
+      "ko": "나, 애 아빠 된다!"
+    },
+    "endTime": 1363425
+  },
+  {
+    "startTime": 1364863,
+    "languages": {
+      "ko": "뭐?"
+    },
+    "endTime": 1365329
+  },
+  {
+    "startTime": 1366631,
+    "languages": {
+      "en": "I'm having a baby. I'm having a"
+    },
+    "endTime": 1369828
+  },
+  {
+    "startTime": 1366732,
+    "languages": {
+      "ko": "드디어 애 아빠 된다구!"
+    },
+    "endTime": 1368666
+  },
+  {
+    "startTime": 1368867,
+    "languages": {
+      "ko": "- 세상에!\n- 나 이제..."
+    },
+    "endTime": 1369891
+  },
+  {
+    "startTime": 1370068,
+    "languages": {
+      "en": "-The phone, the phone.\n-I don't have the phone."
+    },
+    "endTime": 1373162
+  },
+  {
+    "startTime": 1370102,
+    "languages": {
+      "ko": "- 전화 어딨어, 전화?\n- 바로 저기, 전화!"
+    },
+    "endTime": 1372093
+  },
+  {
+    "startTime": 1376041,
+    "languages": {
+      "ko": "로스?"
+    },
+    "endTime": 1376632
+  },
+  {
+    "startTime": 1377175,
+    "languages": {
+      "en": "I'm hurt."
+    },
+    "endTime": 1378403
+  },
+  {
+    "startTime": 1377275,
+    "languages": {
+      "ko": "나 아파"
+    },
+    "endTime": 1377900
+  },
+  {
+    "startTime": 1382948,
+    "languages": {
+      "en": "Let's go.\nCome on, people. Woman in labor."
+    },
+    "endTime": 1385781
+  },
+  {
+    "startTime": 1382948,
+    "languages": {
+      "ko": "모니카, 가자!\n얘들아, 애가 나와"
+    },
+    "endTime": 1386008
+  },
+  {
+    "startTime": 1386251,
+    "languages": {
+      "ko": "나 아주 잘 뛰겠지?"
+    },
+    "endTime": 1387275
+  },
+  {
+    "startTime": 1386284,
+    "languages": {
+      "en": "-Look what I got going.\n-Save it for the cab."
+    },
+    "endTime": 1389685
+  },
+  {
+    "startTime": 1387452,
+    "languages": {
+      "ko": "택시를 위해 아껴라"
+    },
+    "endTime": 1388646
+  },
+  {
+    "startTime": 1390422,
+    "languages": {
+      "ko": "지금 뭐해? 뭐야?\n우리 병원 가!"
+    },
+    "endTime": 1392856
+  },
+  {
+    "startTime": 1390455,
+    "languages": {
+      "en": "We're going to a hospital."
+    },
+    "endTime": 1392787
+  },
+  {
+    "startTime": 1392991,
+    "languages": {
+      "en": "I can't look nice?\nThere are doctors there."
+    },
+    "endTime": 1396188
+  },
+  {
+    "startTime": 1393058,
+    "languages": {
+      "ko": "그런다고 화장도 못해?\n남자 의사가 많잖아"
+    },
+    "endTime": 1395492
+  },
+  {
+    "startTime": 1396194,
+    "languages": {
+      "ko": "- 조이, 냉장고 좀 포기해\n- 알았어"
+    },
+    "endTime": 1398856
+  },
+  {
+    "startTime": 1396428,
+    "languages": {
+      "en": "-Joey, get out of the fridge.\n-All right."
+    },
+    "endTime": 1399556
+  },
+  {
+    "startTime": 1400298,
+    "languages": {
+      "ko": "- 그게 뭐야?\n- 배고플까봐"
+    },
+    "endTime": 1401925
+  },
+  {
+    "startTime": 1400332,
+    "languages": {
+      "en": "-What is that?\n-For the ride."
+    },
+    "endTime": 1402300
+  },
+  {
+    "startTime": 1402134,
+    "languages": {
+      "ko": "- 그래, 택시 안에서...\n- 있다 말해!"
+    },
+    "endTime": 1404193
+  },
+  {
+    "startTime": 1402501,
+    "languages": {
+      "en": "-Like in a cab\n-Save it."
+    },
+    "endTime": 1404196
+  },
+  {
+    "startTime": 1404403,
+    "languages": {
+      "en": "-Hating this.\n-Monica, come on. Let's go."
+    },
+    "endTime": 1407497
+  },
+  {
+    "startTime": 1404503,
+    "languages": {
+      "ko": "그래, 나도 싫어"
+    },
+    "endTime": 1405197
+  },
+  {
+    "startTime": 1405404,
+    "languages": {
+      "ko": "모니카, 어서 가자!\n아기가 나온다구!"
+    },
+    "endTime": 1408635
+  },
+  {
+    "startTime": 1407706,
+    "languages": {
+      "en": "Baby coming."
+    },
+    "endTime": 1408695
+  },
+  {
+    "startTime": 1408907,
+    "languages": {
+      "en": "I can't believe I'm gonna be\nan aunt."
+    },
+    "endTime": 1411398
+  },
+  {
+    "startTime": 1408940,
+    "languages": {
+      "ko": "너무 좋아 죽겠어!\n내가 고모가 되다니!"
+    },
+    "endTime": 1411408
+  },
+  {
+    "startTime": 1411643,
+    "languages": {
+      "ko": "조카가 생긴다구!"
+    },
+    "endTime": 1412905
+  },
+  {
+    "startTime": 1411676,
+    "languages": {
+      "en": "-I'll have a nephew.\n-That's nice. Get out."
+    },
+    "endTime": 1415077
+  },
+  {
+    "startTime": 1413111,
+    "languages": {
+      "ko": "넌 좋겠다!\n가!"
+    },
+    "endTime": 1415079
+  },
+  {
+    "startTime": 1415614,
+    "languages": {
+      "ko": "- 가자!\n- 알았어"
+    },
+    "endTime": 1418105
+  },
+  {
+    "startTime": 1418617,
+    "languages": {
+      "en": "All right, I'm going.\nI'm going."
+    },
+    "endTime": 1420881
+  },
+  {
+    "startTime": 1418650,
+    "languages": {
+      "ko": "그래, 간다, 가"
+    },
+    "endTime": 1420083
+  },
+  {
+    "startTime": 1427592,
+    "languages": {
+      "ko": "자, 가자! 가자!"
+    },
+    "endTime": 1428024
+  },
+  {
+    "startTime": 1428093,
+    "languages": {
+      "en": "Here we go. Come on."
+    },
+    "endTime": 1430118
+  },
+  {
+    "startTime": 1428193,
+    "languages": {
+      "ko": "로스, 괜찮아, 가자"
+    },
+    "endTime": 1429319
+  },
+  {
+    "startTime": 1432364,
+    "languages": {
+      "ko": "우리랑 가야지"
+    },
+    "endTime": 1433592
+  }
+]
